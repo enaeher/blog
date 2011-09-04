@@ -1,0 +1,61 @@
+---
+layout: post
+title: Fun with HMDA numbers.
+---
+
+<p>
+In August, Brian Boyer <a href="http://sixthw.com/2008/08/05/dearest-journalists-stop-being-jerks-why-not-publish-the-data-too/">wrote</a>:
+</p>
+
+<blockquote>
+
+<p>If I had to pick the one craziest thing about journalism, it’s this. We closely guard our sources, even from our colleagues at the same organization. We make FOIAs and file them away. And now that we’re online, we don’t link to our source materials, we don’t publish our data, and we’d never, ever link to another news source for background. WTF!?</p>
+
+</blockquote>
+
+<p>
+David Cohn of <a href="http://spot.us">Spot.Us</a> followed up in the comments:
+</p>
+
+<blockquote>
+
+<p>Welcome to the world of fighting “the scoop.”</p>
+
+<p>“The Scoop” is what has made journalism what it is today. It was the lifeblood of the craft. It’s what every journalist always wanted. If they had it, they treated it like a pretty, pretty pet. They would spoon it and talk to it in a cute little voice.</p>
+
+<p>The scoop mentality is killing us.</p>
+
+</blockquote>
+
+<p>
+That's why I was pleased to see that the <i>Chicago Reporter</i>'s <a href="http://www.chicagoreporter.com/index.php/c/Web_Extras/d/More_Loan_For_The_Same_Home">analysis</a> of national data on high-cost mortgages included a link to its <a href="http://www.chicagoreporter.com/assets/files/HighCostLoanTables.xls">version of the data</a> [Excel file]. (You can find the underlying pre-<i>Reporter</i>-analysis data at the Federal Financial Institutions Examination Council's <a href="http://www.ffiec.gov/hmda/default.htm">Home Mortgage Disclosure Act</a> site.)
+</p>
+
+<p>
+I was considering writing a post on how great this is and how they get it and are doing the right thing, etc. &mdash; but if you're reading this you've probably heard all that before. So I thought, well, everybody likes pictures, and so here they are, courtesy of the <i>Reporter</i>'s data, in pleasant, seasonally-appropriate colors:
+</p>
+
+<script type="text/javascript" src="scripts/jquery.js"></script>
+<!--[if IE]><script language="javascript" type="text/javascript" src="scripts/flot/excanvas.pack.js"></script><![endif]-->
+<script type="text/javascript" src="scripts/chi-reporter-housing-graph.js"></script>
+<script type="text/javascript" src="scripts/flot/jquery.flot.js"></script>
+
+<div id="race-income-placeholder" style="width: 95%; height: 300px;"></div>
+
+<p>
+Here we've got high-cost home loans (either percentages within the demographic, or raw numbers) broken down by race/ethnicity and annual income. (That's thousands of dollars on the <i>x</i>-axis.) Note that the income categorizations are not uniform, though they're spaced equidistantly here for readability &mdash; the higher income brackets are broader than the lower.
+</p>
+
+<p>
+Also note that if you look at the absolute numbers rather than the percentages, you'll see two lines for each demographic &mdash; one indicates total home loans, the other high-cost loans. (The criteria for high-cost loans are explained in the article linked above.)
+</p>
+
+<p>
+And here we've got loans broken down by gender and income:
+</p>
+
+<div id="gender-income-placeholder" style="width: 95%; height: 300px;"></div>
+
+<p>
+These graphs were an excuse to play with <a href="http://code.google.com/p/flot/">Flot</a>, a <a href="http://jquery.com">jQuery</a> charting plugin, in my ongoing search for the perfect infographic platform for the web. While it's a slick plugin and simple to use, it's not quite as flexible as I'd like (the absolute-number versions of the above two graphs might be better handled as some sort of simplified box plot, which Flot doesn't support).
+</p>

@@ -1,0 +1,234 @@
+/* General styles */
+
+* { 
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+}
+
+body {
+  background-color: #1a1a17;
+  margin: 0;
+  margin-top: 10%;
+  padding: 0;
+  color: white;
+  font-weight: normal;
+  font-size: 1em;
+  font-family: 'Carme',sans-serif;
+  line-height: 1.5em;
+}      
+
+h1 { 
+  font-weight: normal;
+  font-family: 'LTCTwentiethCenturyMedium', sans-serif;
+  letter-spacing: 2pt;
+  line-height: 1em;
+  font-size: 18pt;
+  font-weight: normal;
+  margin-bottom: 1em;
+}
+
+h3 { 
+  font-size: inherit;
+}
+
+code, pre { 
+  font-family: 'Inconsolata', fixed;
+}
+
+p {
+  margin: 0;
+  margin-bottom: 1.5em;
+  margin-top: 1.5em;
+}
+
+blockquote { 
+  margin-bottom: 1.5em;
+  margin-top: 1.5em;
+}
+
+ul { 
+  margin-bottom: 1.5em;
+  margin-top: 1.5em;
+}
+
+li { 
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+/* embed.ly stuff */
+
+div.embed {
+  text-align: center;
+}
+
+/* Link styles */
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #ffc90b;
+}
+
+a:hover {
+  background-color: white;
+  color: black;
+}
+
+a img {
+  border-width: 0;
+  display: block;
+}
+
+/* General form styles */
+
+input, textarea {
+  background-color: transparent;
+  border-width: 0;
+  border-bottom: 1px solid white;
+  color: white;
+  font-family: inherit;
+  font-size: inherit;
+}
+
+input:focus, textarea:focus {
+  background-color: #333333;
+}
+
+/* General column styles */
+
+.column {
+  float: left;
+  margin-left: .75em;
+  margin-right: .75em;
+}
+
+.column p:first-child { 
+  margin-top: 0;
+}
+
+/* Masthead -- leftmost colum */
+
+#masthead {
+  float: right;
+  width: 9em;
+  text-align: right;
+}
+
+#masthead #logotype { 
+  display: block;
+  height: 9em;
+  width: 9em;
+  padding: 0;
+  background-color: #ffc90b;
+  color: #1a1a17;
+  margin: 0;
+  
+}
+
+#masthead h1 {
+  padding-right: .5em;
+  padding-top: .5em;
+}
+
+#masthead p { 
+  font-size: 9pt;
+  line-height: 18pt;
+  margin-top: 18pt;
+  margin-bottom: 18pt;
+}
+
+/* Main column */
+
+#main {
+  margin-right: 10%;
+  width: 50%;
+  float: right;
+}
+
+#main img { 
+}
+
+#main h1.entry-title { 
+  padding-top: .5em;
+  padding-bottom: .5em;
+}
+
+#main h1.entry-title a { 
+  color: inherit;
+  font-weight: inherit;
+}
+
+#main h1.entry-title a:hover { 
+  background-color: inherit;
+}
+
+#main .entry-meta { 
+  text-align: right;
+}
+
+/* Recent posts and archives page styles */
+
+div.recent-posts { 
+  text-align: center;
+}
+
+ul.entry-list,
+ul.entry-list ul {
+  list-style-image: none;
+  list-style: none;
+  text-align: left;
+  clear: both;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 1.5em;
+}
+
+ul.entry-list li {
+  display: block;
+  clear: both;
+  width: 100%;
+}
+
+ul.entry-list .month-label h3 {
+  text-align: right;
+  width: 20%;
+  margin: 0;
+  float: left;
+}
+
+ul.entry-list .year-label { 
+  clear: right;
+  float: left;
+  overflow: visible;
+  height: 0;
+  text-align: right;
+}
+
+
+ul.entry-list ul.month {
+  display: block;
+  width: 80%;
+  float: left;
+  clear: right;
+}
+
+ul.entry-list .day-label {
+  width: 5%;
+  float: left;
+  margin-right: 5%;
+  margin-left: 2%;
+  clear: none;
+  font-weight: bold;
+}
+
+ul.entry-list .entry-description {
+  float: left;
+  clear: right;
+}
