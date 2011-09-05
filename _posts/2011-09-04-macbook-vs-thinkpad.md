@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Industrial design of the MacBook Air and the Thinkpad x120
+title: Industrial design of the MacBook Air and the Thinkpad x120e
 ---
 
 Somehow I find myself recently the owner of both a Thinkpad x120e and a MacBook Air. Since to me these two machines represent near-opposite approaches to the same problem, I thought it would be an interesting exercise to compare them. Specifically&mdash;because it is what interests me&mdash;I will be focusing on issues of industrial design, build quality, and human factors rather than performance. (On performance: the Macbook is very much faster, but then it cost more than twice as much. I ordered the x120e with less RAM and and a traditional hard drive; an SSD is an option, and its RAM can be configured to match that of the MacBook, which would give us a fairer comparison.)
