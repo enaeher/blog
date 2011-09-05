@@ -2,7 +2,7 @@
 #
 # This plugin creates a site.years template variable which allow you to group archive links by year and month.
 # The structure of site.years is:
-# site.years = 2001=>[1=>[post1, post2...], 2=>[...]], 2002=>[...]
+# site.years = 2001=>[[post1, post2...], [...]], 2002=>[...]
 #
 # Usage should look something like this:
 # {% for year in site.years %}
