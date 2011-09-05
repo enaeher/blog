@@ -25,7 +25,7 @@ After this last redesign I spent days tearing my hair out over one nasty little 
 looked like this in Chrome:
 
 <div class="embed">
-  <img src="images/webkit-bug.png" alt="Image showing WebKit rendering problem">
+  <img src="/images/webkit-bug.png" alt="Image showing WebKit rendering problem">
 </div>
 
 As you can see, the last line is slightly to the right (or, more accurately, all lines but the last are slightly to the left of the rightmost edge of the containing paragraph).
