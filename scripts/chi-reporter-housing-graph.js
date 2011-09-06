@@ -5,19 +5,19 @@ $(document).ready(function() {
 	"rgb(32,117,112)", "rgb(37,77,25)", "rgb(203,202,151)" 
     ];
 
-    var incomeLevelsURI = "scripts/income-levels.json";
+    var incomeLevelsURI = "/scripts/income-levels.json";
 
     var datasets = [ 
 	{
 	    title : "Race and Ethnicity by Income",
-	    uri : "scripts/housing-data.json",
+	    uri : "/scripts/housing-data.json",
 	    graphOptions : getDefaultGraphOptions(),
 	    placeholder : $("#race-income-placeholder")
 	    
 	},
 	{
 	    title : "Gender by Income",
-	    uri : "scripts/gender-income.json",
+	    uri : "/scripts/gender-income.json",
 	    graphOptions : getDefaultGraphOptions(),
 	    placeholder : $("#gender-income-placeholder")
 	}
