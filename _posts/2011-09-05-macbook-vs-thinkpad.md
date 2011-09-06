@@ -15,7 +15,7 @@ The underside of the Thinkpad is tidy but unexciting:
 
 The MacBook is&mdash;as you will no doubt have tired of hearing by now&mdash;very, very thin:
 
-{% embedly http://www.flickr.com/photos/56883654@N04/6113786794/i %}
+{% embedly http://www.flickr.com/photos/56883654@N04/6113786794/ %}
 
 The ThinkPad is not:
 
