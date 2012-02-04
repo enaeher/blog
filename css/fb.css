@@ -126,7 +126,7 @@ input:focus, textarea:focus {
   padding: 0;
   background-color: #ffc90b;
   color: #1a1a17;
-  margin: 0;  
+  margin: 0;
 }
 
 #masthead h1 {
@@ -145,7 +145,7 @@ input:focus, textarea:focus {
 
 #main {
   margin-right: 10%;
-  width: 50%;
+  width: 36em;
   float: right;
 }
 
