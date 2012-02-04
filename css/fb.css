@@ -14,7 +14,7 @@ body {
   padding: 0;
   color: white;
   font-weight: normal;
-  font-size: 1em;
+  font-size: 12pt;
   font-family: 'Carme',sans-serif;
   line-height: 1.5em;
 }      
@@ -24,9 +24,8 @@ h1 {
   font-family: 'LTCTwentiethCenturyMedium', sans-serif;
   letter-spacing: 2pt;
   line-height: 1em;
-  font-size: 18pt;
+  font-size: 36pt;
   font-weight: normal;
-  margin-bottom: 1em;
 }
 
 h3 { 
@@ -132,6 +131,7 @@ input:focus, textarea:focus {
 #masthead h1 {
   padding-right: .5em;
   padding-top: .5em;
+  font-size: 18pt;
 }
 
 #masthead p { 
@@ -153,8 +153,8 @@ input:focus, textarea:focus {
 }
 
 #main h1.entry-title { 
-  padding-top: .5em;
-  padding-bottom: .5em;
+  padding-top: 12pt;
+  padding-bottom: 24pt;
 }
 
 #main h1.entry-title a { 
