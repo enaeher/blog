@@ -27,4 +27,4 @@ If you read about these baskets online you'll find that many people don't like t
 
 {% flickr_photo 8689009045 %}
 
-I mounted this basket fairly far back because I was worried about heel strike; I could probably have gotten away with mounting it a couple inches further forward, and I might eventually move them a little bit. I suspect I'll get a second basket eventually; it would be nice to be able to balance heavier loads a bit more.
+I mounted this basket fairly far back because I was worried about heel strike; I could probably have gotten away with mounting it a couple inches further forward, and I might eventually move it a little bit. I suspect I'll get a second basket eventually; it would be nice to be able to balance heavier loads a bit more.
