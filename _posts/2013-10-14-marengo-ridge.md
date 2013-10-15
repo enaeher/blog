@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marengo Ridge Conservation Area
+title: Marengo Ridge Conservation Area.
 ---
 
 Last week M&mdash; and I decided to get out of the city for the weekend. We picked the <a href="http://www.mccdistrict.org/web/re-camping.htm">Marengo Ridge Conservation Area</a> more or less at random from <a href="http://www.amazon.com/The-Best-Tent-Camping-Illinois/dp/0897326431"><i>The Best in Tent Camping: Illinois</i></a> and headed out on Saturday afteroon, with a quick stop at L.L. Bean for various bits and pieces.
@@ -37,6 +37,6 @@ and milkweed bugs.
 
 {% flickr_photo 10276397433 %}
 
-And then it was time to head back to Chicago (but not before a stop at the <a href="http://www.irm.org">Illinois Railway Museum</a> in nearby Union.
+And then it was time to head back to Chicago (but not before a stop at the <a href="http://www.irm.org">Illinois Railway Museum</a> in nearby Union).
 
 {% flickr_photo 10276216724 %}
