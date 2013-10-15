@@ -7,7 +7,7 @@ Last week M&mdash; and I decided to get out of the city for the weekend. We pick
 
 Arriving just after a short rainstorm had passed over, we ended up with a perfect campsite, down a little trail from the road.
 
-{% flickr_photo 10232902643 %}
+{% flickr_photo 10297973784 %}
 
 After setting up camp we went for a walk on the nearby trails. I regret not taking this giant puffball back to the campsite to <a href="http://www.theguardian.com/lifeandstyle/allotment/2010/sep/22/allotments-gardens">grill</a>.
 
@@ -23,7 +23,7 @@ Then back to the campsite for smores (made, on the advice of <a href="http://tin
 
 In the morning, after a breakfast of instant coffee and leftover cornbread heated up over the fire, we took another walk through the trails&mdash;this time heading south of the campground access road into the prairie we'd only had the chance to check out briefly the day before.
 
-{% flickr_photo 10246928614 %}
+{% flickr_photo 10273766834 %}
 
 It would have been very easy to take a nap here.
 
