@@ -77,7 +77,7 @@ From the marina you can get out to the town of Winthrop Harbor. There isn't much
 
 {% flickr_photo 10420754794 %}
 
-Monday morning there was time to use up the rest of the firewood and make some tea:
+Monday morning there was time to use up the rest of the firewood and make some tea.
 
 {% flickr_photo 10420793644 %}
 
