@@ -29,7 +29,7 @@ When I reached the campsite and unpacked, I'd grown so used to the feel of the b
 
 {% flickr_photo 10420775894 %}
 
-Then it was time to build a fire and sit back with a little bourbon and a book. (I'd brought <a href="http://www.amazon.com/Command-Control-Damascus-Accident-Illusion/dp/1594202273"><i>Commmand and Control</i></a>, about the history of accidents and failure in the US nuclear weapons program, since Illinois Beach State Park happens to contain a <a href="http://en.wikipedia.org/wiki/Zion_Nuclear_Power_Station">decommissioned nuclear power plant</a>.)
+Then it was time to build a fire and sit back with a little bourbon and a book. (I'd brought <a href="http://www.amazon.com/Command-Control-Damascus-Accident-Illusion/dp/1594202273"><i>Command and Control</i></a>, about the history of accidents and failure in the US nuclear weapons program, since Illinois Beach State Park happens to contain a <a href="http://en.wikipedia.org/wiki/Zion_Nuclear_Power_Station">decommissioned nuclear power plant</a>.)
 
 {% flickr_photo 10420798746 %}
 
