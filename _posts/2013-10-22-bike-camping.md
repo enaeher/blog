@@ -45,7 +45,7 @@ And two bathhouses (the southern one was closed for the season, but this one to 
 
 But the more interesting bits are in the North Unit, past the power plant.
 
-{% flickr_photo 10420751006 %}
+{% flickr_photo 10420669544 %}
 
 Although the plant is decommissioned, it is still brightly lit at night, and parts of the facility are clearly in use as some kind of electrical substation; you can hear the power lines humming overhead.
 
