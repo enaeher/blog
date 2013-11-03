@@ -9,3 +9,11 @@
       <p class="entry-meta">
 	<span class="chronodata"><abbr class="published">{{ post.date | date: "%d" }} {{ post.date | date: "%B" }} {{ post.date | date: "%Y" }}</abbr></span>
       </p>
+      {% unless page.suppressComments %}
+      <div class="fb-comments"
+           data-colorscheme="dark"
+           data-href="{{ site.url }}{{ post.url }}"
+           data-width="640"
+           data-order-by="time"></div>
+      {% endunless %}
+                                                                                                          
