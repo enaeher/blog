@@ -1,6 +1,5 @@
-auto: true
 permalink: ./:title
-url: http://flyoverblues.com/          
+url: http://flyoverblues.com
 pygments: true
 embedly:
   api_key: 34bb4ff4d37a11e0a0944040d3dc5c07
