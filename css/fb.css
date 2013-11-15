@@ -19,13 +19,15 @@ body {
   line-height: 1.5em;
 }      
 
-h1 { 
+h1,h2,h3 {
   font-weight: normal;
   font-family: 'LTCTwentiethCenturyMedium', sans-serif;
   letter-spacing: 2pt;
   line-height: 1em;
+}
+
+h1 { 
   font-size: 36pt;
-  font-weight: normal;
 }
 
 h3 { 
@@ -150,6 +152,7 @@ input:focus, textarea:focus {
 }
 
 #main img { 
+    margin-bottom: 1.5em;
 }
 
 #main h1.entry-title { 
