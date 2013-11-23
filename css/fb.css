@@ -152,6 +152,7 @@ input:focus, textarea:focus {
 }
 
 #main img { 
+    margin-top: 1.5em;
     margin-bottom: 1.5em;
 }
 
