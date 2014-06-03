@@ -197,7 +197,7 @@ ul.entry-list li {
   width: 100%;
 }
 
-ul.entry-list .month-label h3 {
+ul.entry-list .month-label > div {
   text-align: right;
   width: 20%;
   margin: 0;
@@ -226,7 +226,6 @@ ul.entry-list .day-label {
   margin-right: 5%;
   margin-left: 2%;
   clear: none;
-  font-weight: bold;
 }
 
 ul.entry-list .entry-description {

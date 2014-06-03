@@ -28,10 +28,10 @@
 	<ul class="content hfeed entry-list">
       {% for year in site.years %}
       <li class="year-label">
-	<h3>{{ year.first.first.date | date: "%Y" }}</h3>
+	<div>{{ year.first.first.date | date: "%Y" }}</div>
       </li>
       {% for month in year %}
-      <li class="month-label"><h3>{{ month.first.date | date: "%B" }}</h3>
+      <li class="month-label"><div>{{ month.first.date | date: "%B" }}</div>
 	<ul class="month">
       {% for post in month %}
 	    <li>
