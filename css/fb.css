@@ -34,6 +34,10 @@ h3 {
   font-size: inherit;
 }
 
+span.logo {
+    font-family: 'ss-social-regular';
+}
+
 code, pre { 
   font-family: 'Inconsolata', fixed;
 }
