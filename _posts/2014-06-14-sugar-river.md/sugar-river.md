@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sugar River Forest Preserve
+title: Sugar River Forest Preserve.
 ---
 
 {% flickr_photo 14421469124 %}
