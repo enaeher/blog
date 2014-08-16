@@ -10,8 +10,10 @@
     <link rel="stylesheet" type="text/css" href="/css/fb.css">
     <meta charset="utf-8"/>
     <meta property="fb:app_id" content="467239476727889"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
   <body>
+    <div id="container">
     <!-- begin facebook comment code -->
     <div id="fb-root"></div>
     <script>(function(d, s, id) {
@@ -22,6 +24,15 @@
       fjs.parentNode.insertBefore(js, fjs);
       }(document, 'script', 'facebook-jssdk'));</script>
     <!-- end facebook comment code -->
+    <div class="mobile-header">
+      <a href="/">&#x2708; flyover blues</a>
+      <a id="jump-to-bottom" href="#bottom-masthead">&#8631;</a>
+    </div>
+    <div class="column masthead top">
+      <a id="logotype" href="/">
+	<h1>&#x2708; flyover blues</h1>
+      </a>
+    </div>
     <div id="main" class="column">
       {{ content }}
       <div class="recent-posts">
@@ -49,10 +60,8 @@
       &bull;
       </div>
     </div>
-    <div id="masthead" class="column">
-      <a href="/" id="logotype">
-	<h1>flyover<br>blues<!--<br><br>&#x2708;--></h1>
-      </a>
+    <a name="bottom-masthead"></a>
+    <div class="column masthead bottom">
       <p>
 	<i>by</i> Eli Naeher
 	<br>
@@ -82,6 +91,7 @@
  	made with <a href="http://jekyllrb.com">Jekyll</a>
 	<br> <!-- workaround for https://bugs.webkit.org/show_bug.cgi?id=29055 -->
       </p>
+    </div>
     </div>
   </body>
 </html>

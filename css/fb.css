@@ -1,5 +1,26 @@
 /* General styles */
 
+html { font-size: 100%; }
+
+/* Small screens (default) */
+html { font-size: 100%; }
+
+/* Medium screens (640px) */
+@media (min-width: 40rem) {
+
+}
+
+/* Large screens (1024px) */
+@media (min-width: 64rem) {
+
+}
+
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
 * { 
   margin-top: 0;
   margin-bottom: 0;
@@ -10,7 +31,6 @@
 body {
   background-color: #1a1a17;
   margin: 0;
-  margin-top: 10%;
   padding: 0;
   color: white;
   font-weight: normal;
@@ -26,16 +46,12 @@ h1,h2,h3 {
   line-height: 1em;
 }
 
-h1 { 
-  font-size: 36pt;
-}
-
 h3 { 
   font-size: inherit;
 }
 
 span.logo {
-    font-family: 'ss-social-regular';
+  font-family: 'ss-social-regular';
 }
 
 code, pre { 
@@ -67,6 +83,7 @@ li {
 
 /* embed.ly stuff */
 
+
 div.embed {
   text-align: center;
 }
@@ -87,6 +104,7 @@ a:hover {
 a img {
   border-width: 0;
   display: block;
+  max-width: 100%;
 }
 
 /* General form styles */
@@ -112,35 +130,55 @@ input:focus, textarea:focus {
   margin-right: .75em;
 }
 
-.column p:first-child { 
-  margin-top: 0;
+.column p:first-child,
+.column img:first-child {
+  margin-top: 0 !important;
 }
 
 /* Masthead -- leftmost colum */
 
-#masthead {
-  float: right;
-  width: 9em;
-  text-align: right;
+.masthead {
+
 }
 
-#masthead #logotype { 
-  display: block;
-  height: 9em;
-  width: 9em;
-  padding: 0;
+.masthead.top {
+  display: none;
+}
+
+.masthead #logotype {
+  float: left;
+}
+
+.mobile-header {
+  font-size: 18pt;
   background-color: #ffc90b;
   color: #1a1a17;
-  margin: 0;
+  width: 100%;
+  padding: .5em;
+  float: left;
+  margin-bottom: .5em;
 }
 
-#masthead h1 {
-  padding-right: .5em;
-  padding-top: .5em;
+.mobile-header * {
+  float: left;
+}
+
+.mobile-header a {
+  color: inherit;
+}
+
+.mobile-header #jump-to-bottom {
+  float: right;
+}
+
+.masthead h1 {
+  padding: .5em;
+  padding-left: 0;
+  padding-right: 0;
   font-size: 18pt;
 }
 
-#masthead p { 
+.masthead p { 
   font-size: 9pt;
   line-height: 18pt;
   margin-top: 18pt;
@@ -149,18 +187,12 @@ input:focus, textarea:focus {
 
 /* Main column */
 
-#main {
-  margin-right: 10%;
-  width: 36em;
-  float: right;
-}
-
 #main img { 
-    margin-top: 1.5em;
-    margin-bottom: 1.5em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
 }
 
-#main h1.entry-title { 
+#main h1.entry-title {
   padding-top: 12pt;
   padding-bottom: 24pt;
 }
@@ -177,6 +209,51 @@ input:focus, textarea:focus {
 #main .entry-meta { 
   text-align: right;
 }
+
+@media (min-width: 40rem) {
+  body {
+    margin-top: 10%;
+  }
+  h1 { 
+    font-size: 36pt;
+  }
+  .masthead h1 {
+    padding: .5em;
+  }
+  .masthead {
+    float: left;
+    width: 9em;
+    text-align: right;
+    clear: left;
+  }
+  .mobile-header {
+    display: none;
+  }
+  .masthead.top {
+    display: block;
+  }
+  .masthead #logotype {
+    background-color: #ffc90b;
+    color: #1a1a17;
+    display: block;
+    width: 9em;
+    margin-bottom: 1.5em;
+  }
+  #main {
+    width: 36em;
+    float: right;
+  }
+  .masthead #jump-to-bottom {
+    display: none;
+  }
+  #container {
+    width: 48em;
+    margin-left: auto;
+    margin-right: auto;
+  }    
+}
+
+
 
 /* Recent posts and archives page styles */
 
