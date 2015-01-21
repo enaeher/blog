@@ -35,8 +35,7 @@ Eventually we headed back down to the muddy access road where we'd left our bike
 
 {% flickr_photo 16329490725 %}
 
-This picture does not do justice to the amount of mud caked under my fenders (and everywhere else).
+Then it was back to the museum, and, for me, a grayer, chillier ride home to Edgewater. I'd ridden 22 miles each way to go on a 10-mile bike ride, and I can't think of any better way to have spent the day.
 
 {% flickr_photo 16329488855 %}
 
-Then it was back to the museum, and, for me, a grayer, chillier ride home to Edgewater. I'd ridden 22 miles each way to go on a 10-mile bike ride, and I can't think of any better way to have spent the day.
