@@ -3,9 +3,9 @@ layout: post
 title: A second time along the I&amp;M Canal Trail.
 ---
 
-{% flickr_photo 14971212149 %}
+{% flickr_photo 14971212149 "Medium 800" %}
 
-Last fall my <a href="http://flyoverblues.com/i-and-m/">solo overnight along the I&amp;M Canal Trail</a> had a somewhat disastrous conclusion, when I lost my eyeglasses and had difficulty working for the month or so it took to have them replaced. But I enjoyed it nonetheless, and M&mdash; was interested in reprising the trip with me. This time, we would set a very moderate pace, to allow for plenty of time at camp and in town along the way. We would leave on Wednesday, August 27, and return that Saturday.
+Last fall my <a href="/i-and-m/">solo overnight along the I&amp;M Canal Trail</a> had a somewhat disastrous conclusion, when I lost my eyeglasses and had difficulty working for the month or so it took to have them replaced. But I enjoyed it nonetheless, and M&mdash; was interested in reprising the trip with me. This time, we would set a very moderate pace, to allow for plenty of time at camp and in town along the way. We would leave on Wednesday, August 27, and return that Saturday.
 
 ## Wednesday
 
@@ -13,21 +13,21 @@ We had hoped to catch one of the morning Rock Island Line Metra trains to Joliet
 
 In Joliet M&mdash; had scouted the excellent, fast, and cheap <a href="http://www.chicken-n-spicejoliet.com/">Chicken-N-Spice</a> restaurant ("Home of the breast chunk"), only a few blocks from the train.
 
-{% flickr_photo 14971434787 %}
+{% flickr_photo 14971434787 "Medium 800" %}
 
 Thus fortified, we rode the quick couple miles to the Brandon Road trailhead and headed west along the trail, stopping occasionally to do some off-trail exploring..
 
-{% flickr_photo 15157483842 %}
+{% flickr_photo 15157483842 "Medium 800" %}
 
 We arrived at <a href="http://dnr.state.il.us/lands/landmgt/parks/i&m/east/channaho/park.htm">Channahon State Park</a>, where we seemed to have the place to ourselves aside from a motorcycle camper. The campground here is small and not at all remote from the surrounding residential neighborhood, more like a city park really, but it's grassy and pleasant.
 
-{% flickr_photo 15134711466 %}
+{% flickr_photo 15134711466 "Medium 800" %}
 
 The surrounding neighborhood has houses, a church, and a baseball diamond, but nowhere to buy groceries. There is a Jewel only about three miles' ride to the east, but it was a harrowing three miles alongside a busy highway with no shoulder. Next to the highway are an endless succession of ugly new subdivisions with useless streets that connect to nothing. Eventually we made it back with some bean soup, steak kebabs for the fire, and firewood which turned out to be too wet to burn. (Happily the Trangia was able to cook the kebabs with no problems.) I regret to report that the Dari Castle which the state park's website describes appears to have been turned into a Subway&mdash;a very poor substitute (though we made up for this with our ice cream consumption later on this trip).
 
 Back at camp we enjoyed the view of the dam over which the trail passes. This dam was built to "<a href="http://www.waymarking.com/waymarks/WM3QFK_Channahon_Dam_at_DuPage_River_Channahon_IL">provide a stable impoundment of the DuPage River for the I&M Canal to cross (instead of an aqueduct)</a>."
 
-{% flickr_photo 14971153218 %}
+{% flickr_photo 14971153218 "Medium 800" %}
 
 ## Thursday
 
@@ -37,25 +37,25 @@ In the morning M&mdash; made coffee, I made tea, and then we headed out, plannin
 
 The river along this stretch was choked with enormous waterlilies.
 
-{% flickr_photo 15134459326 %}
+{% flickr_photo 15134459326 "Medium 800" %}
 
 We stopped for a bit at the Dresden Lock &amp; Dam to explore the edge of the river.
 
-{% flickr_photo 15156886472 %}
+{% flickr_photo 15156886472 "Medium 800" %}
 
 In Morris we stopped at the Weitz Cafe for eggs and pancakes and hash browns and bacon. The sign was better than the food, but the waitress was very friendly and let us charge our phones.
 
-{% flickr_photo 15154249111 %}
+{% flickr_photo 15154249111 "Medium 800" %}
 
 We spent a while walking around Morris, whose citizens have disconcertingly chosen to pipe music through loudspeakers on the lampposts throughout the downtown area. I don't recall this from my last visit in November and it lent a surreal feel to our visit.
 
 A little further on we came to Seneca, where the trail crosses the main (perhaps only) downtown street and a trailside sign for Fergy's Bar and Grill promises the "best burgers in town&mdash;guaranteed." Seneca is very, very tiny, so this claim seemed somewhat less than impressive, but as it turned out the burgers were in fact delicious, the beer cold, and the bartender friendly&mdash;in fact she insisted on filling our water bottles with ice water before we left.
 
-{% flickr_photo 14970575137 %}
+{% flickr_photo 14970575137 "Medium 800" %}
 
 Our next stop, at Illini State Park just across the river from downtown Marseilles, would be our last for the day. Our planning here had been a little loose; we'd wanted to stay at Illini both Thursday and Friday nights, spending Friday resting and exploring, but the park doesn't allow reservations on weekend nights unless you're staying the whole weekend, so we'd made a reservation only for Thursday. Fortunately, there are a number of non-reservable sites that are only available at the campground, and the camp hosts were happy to let us switch to one of those and stay for both nights. The site was quite nice, although very muddy after the heavy rain of the previous week.
 
-{% flickr_photo 15157111155 %}
+{% flickr_photo 15157111155 "Medium 800" %}
 
 The park is immediately across a bridge from Marseilles, and while the bridge has no shoulder and fairly fast traffic, there is a protected sidewalk which makes it easy to get across&mdash;and the views from the top are wonderful.
 
@@ -63,7 +63,7 @@ The park is immediately across a bridge from Marseilles, and while the bridge ha
 
 At the campground concession where firewood is sold there is also ice cream, and we ended up with two of something called the "Devil's Tower."
 
-{% flickr_photo 14970495067 %}
+{% flickr_photo 14970495067 "Medium 800" %}
 
 We had just enough time to set up camp and buy some groceries in town when it started to rain, and our campsite grew muddier and muddier. We spent most of the evening in our tent, and gave up our plans for grilling steaks over the fire and instead had a dinner of red beans and rice cooked on the Trangia in the tent vestibule before going to sleep.
 
@@ -73,11 +73,11 @@ The rain had stopped when we woke up on Friday, though our campsite was still a 
 
 Upon our arrival at our campsite the previous night, M&mdash; had discovered that she'd been riding the whole trip with one of the rear rack bolts missing, and that the remaining bolt was both loose and the wrong size. Given that her panniers probably exceeded the rated weight for this rack anyway, it's amazing that she made it this far missing a bolt without more problems. So we decided we'd head to Ottawa, a little ways down the trail, to buy new M5 bolts at <a href="http://www.thebikeshopinottawa.com/">The Bike Shop In Ottawa</a>&mdash;and to catch a movie at the very pleasant Roxy Theater, which reminded us of the Davis in Mary's old neighborhood of Lincoln Square.
 
-{% flickr_photo 15157013251 %}
+{% flickr_photo 15157013251 "Medium 800" %}
 
 Back in Marseilles we stopped at <a href="https://www.facebook.com/SKOOPZINC">Skoopz</a> for more ice cream, M&mdash; as usual sensibly sticking to a cone while I foolishly ordered something involving ice cream, hot fudge, whipped cream, and an enormous brownie which I could barely finish. Restraint is not a strong point of mine in ice cream shops.
 
-{% flickr_photo 15136948866 %}
+{% flickr_photo 15136948866 "Medium 800" %}
 
 We had dinner at the Illini Lounge and then visited several of the numerous Marseilles bars before heading back to our campsite, where we made a fire and then went to bed.
 
@@ -85,7 +85,7 @@ We had dinner at the Illini Lounge and then visited several of the numerous Mars
 
 We packed up and headed over the bridge one last time to grab breakfast at the Coyote Cafe and then said goodbye to Marseilles.
 
-{% flickr_photo 14973176009 %}
+{% flickr_photo 14973176009 "Medium 800" %}
 
 Heading west, we passed quickly through Ottawa and toward Buffalo Rock State Park and Utica.
 

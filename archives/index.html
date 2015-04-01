@@ -1,0 +1,30 @@
+---
+layout: default
+title: Archives
+---
+<link rel="stylesheet" type="text/css" href="/css/archives.css">
+
+<h1>Archives.</h1>
+
+<ul class="entry-list">
+  {% for year in site.years %}
+  <li class="year-label">
+    <div>{{ year.first.first.date | date: "%Y" }}</div>
+  </li>
+  {% for month in year %}
+  <li class="month-label"><div>{{ month.first.date | date: "%B" }}</div>
+    <ul class="month">
+      {% for post in month %}
+      <li>
+	<div class="day-label">{{ post.date | date: "%d" }}</div>
+	<div class="entry-description">
+	  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+	</div>
+      </li>
+      {% endfor %}
+    </ul>
+  </li>
+  {% endfor %}
+  {% endfor %}
+</ul>
+

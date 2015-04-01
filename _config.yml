@@ -1,11 +1,9 @@
 permalink: ./:title
-url: http://flyoverblues.com
-highlighter: true
+url: http://eli.naeher.name
+title: eli.naeher.name
+highlighter: pygments
 embedly:
   api_key: 34bb4ff4d37a11e0a0944040d3dc5c07
-
-  flickr:
-    maxwidth: 640 
 
 flickr:
   api_key: 3d8a8d10c30b5f33fe5635cf9bcd3283

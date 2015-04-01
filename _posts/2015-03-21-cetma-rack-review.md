@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Cetma 7-Rail Rack Long Term Review.
+title: Cetma 7-Rail Rack Long-Term Review.
 ---
 
-{% flickr_photo 16303542396 %}
+{% flickr_photo 16303542396 "Medium 800" %}
 
 It's been a year and a half since I found this wonderful porteur rack
 (on Craigslist, for a song), and the only thing wrong with it is that
@@ -12,7 +12,7 @@ them anymore.
 
 He now sells a <a
 href="http://cetmacargo.com/products/5-rail-cetma-rack">5-rail
-version</a>, with a platform 11" square (versus 11" &times; 17" on my
+version</a>, with a platform 11&Prime; square (versus 11&Prime; &times; 17&Prime; on my
 7-rail). The 5-rail is probably just as useful as the 7-rail for most
 of the things you'd want to use a front rack for. I'm sure it's a bit
 lighter (the 7-rail, if I'm remembering correctly, weighs something
@@ -25,17 +25,17 @@ has with this rack.
 
 I've carried firewood:
 
-{% flickr_photo 15160084875 %}
+{% flickr_photo 15160084875 "Medium 800" %}
 
 Camping gear:
 
-{% flickr_photo 15157035262 %}
+{% flickr_photo 15157035262 "Medium 800" %}
 
 Last year's Christmas tree (this year, we live closer to <a
 href="http://www.gethsemanegardens.com/">Gethsemane</a> and it was
 easier just to walk):
 
-{% flickr_photo 11259927283 %}
+{% flickr_photo 11259927283 "Medium 800" %}
 
 And plenty of groceries, take-out, parcels, and so on. I've become one
 of those people who delight in carrying things on their bike that

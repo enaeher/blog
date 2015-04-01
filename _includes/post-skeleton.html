@@ -1,19 +1,15 @@
-      <h1 class="entry-title">
-	<a href="{{ post.url }}" title="{{ post.title }}">
-	  {{ post.title }}
-	</a>
-      </h1>
-      <div class="entry-content">
-	{{ content }}
-      </div>
-      <p class="entry-meta">
-	<span class="chronodata"><abbr class="published">{{ post.date | date: "%d" }} {{ post.date | date: "%B" }} {{ post.date | date: "%Y" }}</abbr></span>
-      </p>
-      {% unless page.suppressComments %}
-      <div class="fb-comments"
-           data-colorscheme="dark"
-           data-href="{{ site.url }}{{ post.url }}"
-           data-width="100%"
-           data-order-by="time"></div>
-      {% endunless %}
-                                                                                                          
+    <h1>
+      {% if post.previous.url %} 
+        <a class="prev" href="{{post.previous.url}}">I</a>
+      {% endif %} 
+      <a href="{{ post.url }}" title="{{ post.title }}">
+	{{ post.title }}
+      </a>
+      {% if post.next.url %} 
+        <a class="next" href="{{post.next.url}}">i</a> 
+      {% endif %} 
+    </h1>
+    {{ content }}
+    <p class="entry-meta">
+      <abbr class="published">{{ post.date | date: "%B" }} {{ post.date | date: "%d" }}, {{ post.date | date: "%Y" }}</abbr>
+    </p>

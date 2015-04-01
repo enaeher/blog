@@ -5,21 +5,21 @@ title: WebKit Bug 29055.
 
 After this last redesign I spent days tearing my hair out over one nasty little alignment issue I couldn't figure out. In the masthead, this markup:
 {% highlight html %}
-    <p>
-      <i>by</i> Eli Naeher
-      <br>
-      (<a href="http://portfolio.flyoverblues.com">
-        hire me
-      </a>)
-      <br>
-      (<a href="mailto:eli@flyoverblues.com">
-        send me mail
-      </a>)
-      <br>
-      (<a href="http://codeanddata.com/pgp.txt">
-        encrypt it
-      </a>)
-    </p>
+<p>
+  <i>by</i> Eli Naeher
+  <br>
+  (<a href="http://portfolio.flyoverblues.com">
+    hire me
+  </a>)
+  <br>
+  (<a href="mailto:eli@flyoverblues.com">
+    send me mail
+  </a>)
+  <br>
+  (<a href="http://codeanddata.com/pgp.txt">
+    encrypt it
+  </a>)
+</p>
 {% endhighlight %}
 
 looked like this in Chrome:

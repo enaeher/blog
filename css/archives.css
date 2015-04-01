@@ -1,0 +1,60 @@
+/* Archives page styles */
+
+div.recent-posts { 
+}
+
+ul.entry-list,
+ul.entry-list ul {
+  list-style-image: none;
+  list-style: none;
+  text-align: left;
+  clear: both;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 1.5em;
+}
+
+ul.entry-list li {
+  display: block;
+  clear: both;
+  width: 100%;
+}
+
+ul.entry-list .month-label > div {
+  text-align: right;
+  width: 20%;
+  margin: 0;
+  float: left;
+}
+
+ul.entry-list .year-label { 
+  clear: right;
+  float: left;
+  overflow: visible;
+  height: 0;
+  text-align: right;
+}
+
+
+ul.entry-list ul.month {
+  display: block;
+  width: 80%;
+  float: left;
+  clear: right;
+}
+
+ul.entry-list .day-label {
+  width: 5%;
+  float: left;
+  margin-right: 5%;
+  margin-left: 2%;
+  clear: none;
+}
+
+ul.entry-list .entry-description {
+  float: left;
+  clear: right;
+  width: 75%;
+}
+
+/

@@ -1,4 +1,4 @@
-Flyover Blues
+eli.naeher.name
 =============
 
-This is the repository for the Jekyll configuration for flyoverblues.com.
+This is the repository for the Jekyll configuration for eli.naeher.name.

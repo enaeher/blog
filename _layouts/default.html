@@ -3,96 +3,23 @@
   <head>
     <title>{{ page.title }}</title>
     <link rel="alternate" type="application/atom+xml" title="Atom 1.0" href="/atom.xml">
-    <link href='http://fonts.googleapis.com/css?family=Carme' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="/fonts/stylesheet.css">
+    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,900,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="/css/syntax.css">
-    <link rel="stylesheet" type="text/css" href="/css/fb.css">
+    <link rel="stylesheet" type="text/css" href="/css/arrrows.css">
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <style>
+
+    </style>
     <meta charset="utf-8"/>
-    <meta property="fb:app_id" content="467239476727889"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
   <body>
-    <div id="container">
-    <!-- begin facebook comment code -->
-    <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=467239476727889";
-      fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));</script>
-    <!-- end facebook comment code -->
-    <div class="mobile-header">
-      <a href="/">&#x2708; flyover blues</a>
-      <a id="jump-to-bottom" href="#bottom-masthead">&#8631;</a>
-    </div>
-    <div class="column masthead top">
-      <a id="logotype" href="/">
-	<h1>&#x2708; flyover blues</h1>
-      </a>
-    </div>
-    <div id="main" class="column">
+    <div id="main">
       {{ content }}
-      <div class="recent-posts">
-	<ul class="content hfeed entry-list">
-      {% for year in site.years %}
-      <li class="year-label">
-	<div>{{ year.first.first.date | date: "%Y" }}</div>
-      </li>
-      {% for month in year %}
-      <li class="month-label"><div>{{ month.first.date | date: "%B" }}</div>
-	<ul class="month">
-      {% for post in month %}
-	    <li>
-	      <div class="day-label">{{ post.date | date: "%d" }}</div>
-	      <div class="entry-description">
-		<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-	      </div>
-	    </li>
-      {% endfor %}
-	  </ul>
-	</li>
-      {% endfor %}
-      {% endfor %}
-	</ul>
-      &bull;
+      <div class="nav">
+	<a href="/about">About</a> &mdash; <a href="/archives">Archives</a> &mdash; <a href="/">Home</a>
       </div>
-    </div>
-    <a name="bottom-masthead"></a>
-    <div class="column masthead bottom">
-      <p>
-	<i>by</i> Eli Naeher
-	<br>
-	(<a href="mailto:eli@flyoverblues.com">send me mail</a>)
-	<br>
-	(<a href="http://codeanddata.com/pgp.txt">gpg public key</a>)
-	<br>
-	(<a href="https://github.com/enaeher/">github</a>)
-        <br> <!-- workaround for https://bugs.webkit.org/show_bug.cgi?id=29055 -->
-      </p>
-      <p>
-        <span class="logo">
-          <a href="http://instagram.com/enaeher"></a>
-          <a href="https://www.facebook.com/eli.naeher"></a>
-          <a href="https://pinboard.in/u:enn/"></a>
-        </span>
-	<br> <!-- workaround for https://bugs.webkit.org/show_bug.cgi?id=29055 -->
-      </p>
-      <p>
-	The text is set in Rubén Prol's <a href="http://ipanemagrafica.com/?p=258">Carme</a>. The title face is <a href="https://www.p22.com/family-Twentieth_Century_Medium">Twentieth Century</a>, drawn by Sol Hess.
-      </p>
-      <p>
-	<a href="http://validator.w3.org/check/referer">valid HTML</a>
-	<br>
-	<a href="http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fflyoverblues.com&amp;profile=css3&amp;usermedium=all&amp;warning=1&amp;lang=en">valid CSS</a>
-	<br>
- 	made with <a href="http://jekyllrb.com">Jekyll</a>
-	<br> <!-- workaround for https://bugs.webkit.org/show_bug.cgi?id=29055 -->
-      </p>
-    </div>
-    </div>
+    </div>    
   </body>
 </html>
 

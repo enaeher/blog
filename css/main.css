@@ -1,0 +1,106 @@
+/* General */
+
+*, *:before, *:after {
+	       -moz-box-sizing: border-box;
+	       -webkit-box-sizing: border-box;
+	       box-sizing: border-box;
+	     }
+
+html {
+  font-family: 'Lato', sans-serif;
+  font-size: 24px;
+  line-height: 1.45;
+  width: 50rem;
+  margin-left: auto;
+  margin-right: auto;
+  text-rendering: optimizeLegibility;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-style: italic;
+}
+
+p {
+  margin-top: 1.2rem;
+  margin-bottom: 1.2rem;
+}
+
+img {
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  font-size: inherit;
+  text-decoration: none;
+  color: #D6521A;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Title */
+
+h1 {
+  font-weight: 900;
+  position: relative;
+  font-size: 48px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+h1 .prev {
+  font-family: 'ArrrowsRegular';
+  font-style: normal;
+  position: absolute;
+  left: -3rem;
+}
+
+h1 .next {
+  font-family: 'ArrrowsRegular';
+  font-style: normal;
+  position: absolute;
+  top: 0;
+  right: -3rem;
+}
+
+/* Subheadings */
+
+h2 {
+  font-size: 32px;
+  margin-top: 2rem;
+  margin-bottom: -1rem;
+}
+
+/* Other sections */
+
+#main {
+  float: left;
+  position: relative;
+  width: 800px;
+}
+
+p.entry-meta {
+  font-weight: 700;
+  font-style: italic;
+  text-align: right;
+  color: #28697E;
+}
+
+.nav {
+  font-weight: 900;
+  text-align: center;
+  font-style: italic;
+  font-size: 36px;
+  margin: 1rem;
+}
+
+/* Syntax highlighting / code blocks */
+
+.highlight {
+  font-size: 20px;
+  margin-left: 1.5rem;
+}
