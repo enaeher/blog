@@ -16,11 +16,18 @@ html {
   text-rendering: optimizeLegibility;
 }
 
+body {
+  margin: 0;
+}
+
 h1,h2,h3,h4,h5,h6 {
   font-style: italic;
+  line-height: 1.2;
 }
 
 p {
+  margin: 0;
+  padding: 0;
   margin-top: 1.2rem;
   margin-bottom: 1.2rem;
 }
@@ -48,7 +55,7 @@ h1 {
   font-weight: 900;
   position: relative;
   font-size: 48px;
-  margin-top: 1rem;
+  margin-top: 2rem;
   margin-bottom: 1rem;
 }
 
@@ -72,7 +79,6 @@ h1 .next {
 h2 {
   font-size: 32px;
   margin-top: 2rem;
-  margin-bottom: -1rem;
 }
 
 /* Other sections */
@@ -140,4 +146,8 @@ and (max-device-width : 500px) {
      border-radius: 20px;
    }
 
+   ul, ol {
+     -webkit-padding-start: 0;
+   }
+   
 }
