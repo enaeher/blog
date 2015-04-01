@@ -105,24 +105,39 @@ p.entry-meta {
   margin-left: 1.5rem;
 }
 
-/* For phones */
 
-@media only screen and (max-width: 767px) {
+/* for phones */
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 500px) {
 
    html {
-      font-size: 32px;
+     font-size: 56px;
    }
 
    h1 {
-      font-size: 56px;
+     font-size: 64px;
    }
 
+   h1 .prev {
+     left: -1rem;
+   }
+
+   h1 .next {
+     right: -1rem;
+   }
+   
    h2 {
-     font-size: 40px;
+     font-size: 60px;
    }
 
    .nav {
-     font-size: 42px;
+     font-size: 60px;
+   }
+
+   img {
+     border-radius: 20px;
    }
 
 }
