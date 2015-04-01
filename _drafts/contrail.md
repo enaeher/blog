@@ -31,4 +31,4 @@ Additionally, it becomes necessary to monitor changes to the var's value and re-
 
 [^1]: Gabriel calls this the "the right thing" ethos, but I think this connotes something more rigid and deterministic than the design process and belief system which he is actually describing.
 
-[^2]: There are notable exceptions, of course: Apple frequently attempts to build simple interfaces concealing implementation complexity (e.g. Handoff 
+[^2]: There are notable exceptions, of course: Apple frequently attempts to build simple interfaces concealing implementation complexity (e.g. Handoff, various cross-device syncing) with mixed results.
