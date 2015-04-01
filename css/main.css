@@ -104,3 +104,25 @@ p.entry-meta {
   font-size: 20px;
   margin-left: 1.5rem;
 }
+
+/* For phones */
+
+@media only screen and (max-width: 767px) {
+
+   html {
+      font-size: 32px;
+   }
+
+   h1 {
+      font-size: 56px;
+   }
+
+   h2 {
+     font-size: 40px;
+   }
+
+   .nav {
+     font-size: 42px;
+   }
+
+}
