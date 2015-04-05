@@ -57,4 +57,28 @@ ul.entry-list .entry-description {
   width: 75%;
 }
 
-/
+/* for phones */
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 500px) {
+
+  ul.entry-list .year-label,
+  ul.entry-list .day-label,
+  ul.entry-list .month-label > div {
+    display: none;
+  }
+
+  ul.entry-list ul.month,
+  ul.entry-list .entry-description {
+    width: auto;
+  }
+
+  ul.entry-list ul {
+    margin-bottom: 0;
+  }
+
+  ul.entry-list .entry-description {
+    margin-bottom: 1rem;
+  }
+}
