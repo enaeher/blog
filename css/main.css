@@ -122,6 +122,10 @@ p.entry-meta {
   margin-left: 1.5rem;
 }
 
+pre {
+  white-space: pre-wrap;
+}
+
 
 /* for phones */
 
@@ -138,11 +142,11 @@ and (max-device-width : 500px) {
   }
 
   h1 .prev {
-    left: -2rem;
+    left: -1.25rem;
   }
 
   h1 .next {
-    right: -2rem;
+    right: -1.25rem;
   }
   
   h2 {
