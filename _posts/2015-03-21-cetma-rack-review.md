@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cetma 7-Rail Rack Long-Term Review.
+title: Cetma 7-rail rack long-term review.
 ---
 
 {% flickr_photo 16303542396 "Medium 800" %}
