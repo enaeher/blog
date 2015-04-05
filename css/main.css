@@ -118,36 +118,31 @@ p.entry-meta {
 and (min-device-width : 320px) 
 and (max-device-width : 500px) {
 
-   html {
-     font-size: 56px;
-   }
+  html {
+    font-size: 56px;
+  }
 
-   h1 {
-     font-size: 64px;
-   }
+  h1 {
+    font-size: 64px;
+  }
 
-   h1 .prev {
-     left: -1rem;
-   }
+  h1 .prev {
+    left: -2rem;
+  }
 
-   h1 .next {
-     right: -1rem;
-   }
-   
-   h2 {
-     font-size: 60px;
-   }
+  h1 .next {
+    right: -2rem;
+  }
+  
+  h2 {
+    font-size: 60px;
+  }
 
-   .nav {
-     font-size: 60px;
-   }
+  .nav {
+    font-size: 60px;
+  }
 
-   img {
-     border-radius: 20px;
-   }
-
-   ul, ol {
-     -webkit-padding-start: 0;
-   }
-   
+  img {
+    border-radius: 20px;
+  }
 }
