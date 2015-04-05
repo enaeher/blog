@@ -11,5 +11,5 @@
     </h1>
     {{ content }}
     <p class="entry-meta">
-      <abbr class="published">{{ post.date | date: "%B" }} {{ post.date | date: "%d" }}, {{ post.date | date: "%Y" }}</abbr>
+      <abbr class="published">{{ post.date | date: "%B" }} {{ post.date | date: "%-d" }}, {{ post.date | date: "%Y" }}</abbr>
     </p>
