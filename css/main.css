@@ -26,10 +26,12 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 p {
+  font-family: 'Aften Screen';
   margin: 0;
   padding: 0;
   margin-top: 1.2rem;
   margin-bottom: 1.2rem;
+  hyphens: auto;
 }
 
 img {
@@ -49,6 +51,11 @@ a:hover {
   text-decoration: underline;
 }
 
+sup, sub {
+  font-size: .75rem;
+  line-height: 1;
+}
+
 /* Title */
 
 h1 {
@@ -63,7 +70,7 @@ h1 .prev {
   font-family: 'ArrrowsRegular';
   font-style: normal;
   position: absolute;
-  left: -3rem;
+  left: -2.5rem;
 }
 
 h1 .next {
@@ -71,7 +78,7 @@ h1 .next {
   font-style: normal;
   position: absolute;
   top: 0;
-  right: -3rem;
+  right: -2.5rem;
 }
 
 /* Subheadings */
@@ -102,6 +109,10 @@ p.entry-meta {
   font-style: italic;
   font-size: 36px;
   margin: 1rem;
+}
+
+.footnotes {
+  font-size: smaller;
 }
 
 /* Syntax highlighting / code blocks */
