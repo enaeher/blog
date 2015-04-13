@@ -1,0 +1,33 @@
+---
+layout: null
+---
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+  <title>eli.naeher.name (Clojure-related posts)</title>
+  <link href="http://eli.naeher.name/"/>
+  <link type="application/atom+xml" rel="self" href="http://eli.naeher.name/atom-clojure.xml"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ site.url }}</id>
+  <author>
+    <name>Eli Naeher</name>
+    <email>eli@naeher.name</email>
+  </author>
+
+  {% for post in site.posts %}
+  {% if post.tag == 'clojure' %}
+  <entry>
+    <id>http://eli.naeher.name{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="http://eli.naeher.name/{{ post.url }}"/>
+    <title>{{ post.title }}</title>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <author>
+      <name>Eli Naeher</name>
+      <uri>eli@naeher.name</uri>
+    </author>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+  {% endif %}
+  {% endfor %}
+ 
+</feed>
