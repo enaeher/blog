@@ -41,6 +41,11 @@ img {
   margin-right: auto;
 }
 
+img.bookcover {
+  float: left;
+  margin-right: .75rem;
+}
+
 figcaption {
   text-align: center;
   font-size: smaller;
@@ -64,6 +69,16 @@ a:hover {
 sup, sub {
   font-size: .75rem;
   line-height: 1;
+}
+
+tt, code, pre, kbd, samp {
+  font-family: 'Inconsolata', monospace;
+}
+
+/* used for italics-within-italics */
+
+span.roman {
+  font-style: roman;
 }
 
 /* Title */
