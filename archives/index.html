@@ -18,7 +18,7 @@ title: Archives
       <li>
 	<div class="day-label">{{ post.date | date: "%d" }}</div>
 	<div class="entry-description">
-	  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+	  <a href="{{ post.url }}" title="{{ post.title | strip_html }}">{{ post.title }}</a>
 	</div>
       </li>
       {% endfor %}
