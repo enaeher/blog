@@ -77,8 +77,8 @@ tt, code, pre, kbd, samp {
 
 /* used for italics-within-italics */
 
-span.roman {
-  font-style: roman;
+.roman {
+  font-style: normal;
 }
 
 /* Title */

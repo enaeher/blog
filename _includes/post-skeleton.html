@@ -2,7 +2,7 @@
       {% if post.previous.url %} 
         <a class="prev" href="{{post.previous.url}}">I</a>
       {% endif %} 
-      <a href="{{ post.url }}" title="{{ post.title }}">
+      <a href="{{ post.url }}" title="{{ post.title | strip_html }}">
 	{{ post.title }}
       </a>
       {% if post.next.url %} 
