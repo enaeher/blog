@@ -153,8 +153,8 @@ pre {
 
 /* for phones */
 
-@media only screen 
-and (min-device-width : 320px) 
+@media only screen
+and (min-device-width : 320px)
 and (max-device-width : 500px) {
 
   html {
@@ -163,16 +163,19 @@ and (max-device-width : 500px) {
 
   h1 {
     font-size: 64px;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    margin-top: 1.25rem;
   }
 
   h1 .prev {
-    left: -1.25rem;
+    left: 0;
   }
 
   h1 .next {
-    right: -1.25rem;
+    right: 0;
   }
-  
+
   h2 {
     font-size: 60px;
   }
