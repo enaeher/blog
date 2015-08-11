@@ -3,7 +3,7 @@ layout: post
 title: Simple Emacs presentations for coders.
 ---
 
-![slidify-pages-mode](images/slidify-pages.gif "slidify-pages-mod")
+![slidify-pages-mode](//images/slidify-pages.gif "slidify-pages-mod")
 
 I've really come to enjoy the practice of regular, scheduled
 skill-sharing sessions among distributed teams. At Outpace, where I
