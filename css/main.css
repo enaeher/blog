@@ -1,10 +1,10 @@
 /* General */
 
 *, *:before, *:after {
-	       -moz-box-sizing: border-box;
-	       -webkit-box-sizing: border-box;
-	       box-sizing: border-box;
-	     }
+               -moz-box-sizing: border-box;
+               -webkit-box-sizing: border-box;
+               box-sizing: border-box;
+             }
 
 html {
   font-family: 'Lato', sans-serif;
@@ -25,8 +25,12 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.2;
 }
 
-p, figure {
+p, figure, li {
+  hyphens: auto;
   font-family: 'Aften Screen', sans-serif;
+}
+
+p, figure {
   margin: 0;
   padding: 0;
   margin-top: 1.2rem;
