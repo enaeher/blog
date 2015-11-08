@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sugar River by Bike.
+title: Sugar River by bike.
 ---
 
 <figure>
