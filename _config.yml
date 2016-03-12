@@ -1,7 +1,7 @@
 permalink: ./:title
 url: http://eli.naeher.name
 title: eli.naeher.name
-highlighter: pygments
+highlighter: rb-pygments
 embedly:
   api_key: 34bb4ff4d37a11e0a0944040d3dc5c07
 
