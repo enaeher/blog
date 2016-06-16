@@ -1,4 +1,4 @@
-permalink: ./:title
+permalink: ./:title/
 url: http://eli.naeher.name
 title: eli.naeher.name
 highlighter: rb-pygments
