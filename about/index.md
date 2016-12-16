@@ -7,7 +7,7 @@ title: About.
 
 {% flickr_photo 14973573047 "Medium 800" %}
 
-I'm a Lisp programmer living in Chicago. I wrote Common Lisp for a while; more recently I've been writing Clojure for [Healthfinch](http://www.healthfinch.com/). I like bikes and Emacs.
+I'm a Lisp programmer living in Newburgh, New York. I wrote Common Lisp for a while; more recently I've been writing Clojure for [Healthfinch](http://www.healthfinch.com/). I like bikes and Emacs.
 
 Elsewhere:
 
