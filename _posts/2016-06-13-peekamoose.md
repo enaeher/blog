@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Peekamoose Overnight.
+title: Peekamoose overnight.
 ---
 
 {% flickr_photo 27354007440 'Medium 800' %}
