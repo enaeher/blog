@@ -3,10 +3,7 @@ layout: post
 title: The next bridge up.
 ---
 
-<figure>
-    {% flickr_photo 31418905435 'Medium 800' %}
-    <figcaption>Descending toward the Roseton Generating Station on River Road</figcaption>
-</figure>
+{% flickr_photo 31418905435 'Medium 800' %}
 
 I took a nicely chilly ride today up to the Mid-Hudson Bridge, across,
 and back down the east side of the Hudson. Pretty sure I saw a nice
