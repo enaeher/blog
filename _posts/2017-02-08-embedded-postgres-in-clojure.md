@@ -4,9 +4,8 @@ title: Testing with embedded Postgres in Clojure.
 tag: clojure
 ---
 
-When writing tests around code that talks to Postgres, I've often
-simulated it using in-memory Java SQL databases
-like [HSQL](http://hsqldb.org/)
+When writing tests, I've often simulated Postgres using in-memory Java
+SQL databases like [HSQL](http://hsqldb.org/)
 or [H2](http://www.h2database.com/). In general this has been a
 frustrating experience. While both have modes which purport to offer
 syntax compatibility with Postgres, neither has true feature parity,
