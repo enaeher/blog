@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rainey Park Cyclocross
+title: Rainey Park Cyclocross.
 ---
 
 {% flickr_photo 38966685101 "Medium 800" %}
