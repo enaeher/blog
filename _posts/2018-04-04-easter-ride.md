@@ -9,13 +9,13 @@ Since I moved to Queens I've been trying to get back into the habit of
 taking the train to ride my bike in interesting places as I did when I
 lived in Chicago ([1](/sugar-river-again), [2](/harvard-kenosha),
 [3](/ramble), [4](/crystal-lake-aurora)). Some of my attempts
-([Greenwich to Peekskill](https://ridewithgps.com/trips/20782315) have
-been more successful than others ([Greenwich to
+([Greenwich to Peekskill](https://ridewithgps.com/trips/20782315))
+have been more successful than others ([Greenwich to
 Bridgeport](https://ridewithgps.com/trips/21400930) [to New
 Haven](https://ridewithgps.com/trips/21400931)) but I always enjoy
 finding new roads. And since I did some exploring in the mid-Hudson
-while I lived in Newburgh, I've been focusing on the Harlem and New
-Haven Metro-North lines.
+while I lived in Newburgh, I've been focusing on the new-to-me areas
+along the Harlem and New Haven Metro-North lines.
 
 On Easter Sunday I took the 8:10 train to Brewster (New York) with
 plans to ride up to Kent (Connecticut) and back. (In fact, I'd
@@ -45,7 +45,7 @@ and eat some snacks in front of the town library.
 From Kent I headed back down the other side of the Housatonic as far
 as Bull's Bridge, then turned east. Unlike the outbound leg, my return
 route mostly stayed away from the river, putting me in upland areas
-where the climbing never seemed to stop. I realized I'd badly
+where the climbing never seemed to end. I realized I'd badly
 underestimated the amount of climbing and overestimated my fitness (a
 winter in the flat city has cost me whatever climbing legs I'd had in
 the Hudson Valley) and so it was a long, slow haul back to Brewster. I
