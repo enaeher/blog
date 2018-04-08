@@ -22,13 +22,15 @@ module Jekyll
     end
 
     def render(context)
-      @organization_name = context.registers[:site].config["rokka"]["organization_name"]
-      @stack_name = context.registers[:site].config["rokka"]["stack_name"]
+      organization_name = context.registers[:site].config["rokka"]["organization_name"]
+      stack_name = context.registers[:site].config["rokka"]["stack_name"]
 
-      @thumbnail_url = "https://#{@organization_name}.rokka.io/#{@stack_name}/#{@photo[:id]}.jpg"
-      @full_size_url = "https://#{@organization_name}.rokka.io/dynamic/#{@photo[:id]}.jpg"
+      thumbnail_url = "https://#{organization_name}.rokka.io/#{stack_name}/#{@photo[:id]}.jpg"
+      thumbnail_dpr_2_url = "https://#{organization_name}.rokka.io/#{stack_name}/options-dpr-2/#{@photo[:id]}.jpg"
+      thumbnail_dpr_3_url = "https://#{organization_name}.rokka.io/#{stack_name}/options-dpr-3/#{@photo[:id]}.jpg"
+      full_size_url = "https://#{organization_name}.rokka.io/dynamic/#{@photo[:id]}.jpg"
 
-      "<a class=\"thumbnail\" href=\"#{@full_size_url}\"><img src=\"#{@thumbnail_url}\" alt=\"#{@photo[:caption]}\" title=\"#{@photo[:caption]}\"\></a>"
+      "<a class=\"thumbnail\" href=\"#{full_size_url}\"><img src=\"#{thumbnail_url}\" srcset=\"#{thumbnail_dpr_2_url} 2x, #{thumbnail_dpr_3_url} 3x\" alt=\"#{@photo[:caption]}\" title=\"#{@photo[:caption]}\"\></a>"
     end
 
   end
