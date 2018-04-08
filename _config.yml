@@ -1,11 +1,10 @@
 permalink: ./:title/
 url: http://eli.naeher.name
 title: eli.naeher.name
-embedly:
-  api_key: 34bb4ff4d37a11e0a0944040d3dc5c07
 
-flickr:
-  api_key: 3d8a8d10c30b5f33fe5635cf9bcd3283
+rokka:
+  organization_name: eli-naeher
+  stack_name: blog
 
-gems:
+plugins:
   - jekyll-sitemap

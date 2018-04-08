@@ -3,7 +3,7 @@ layout: post
 title: Ottawa Lake at Kettle Moraine.
 ---
 
-{% flickr_photo 22442156684 'Medium 800' %}
+{% rokka_photo 2fb07f "Kettle Moraine" 'Medium 800' %}
 
 Ever since John at [Uptown Bikes](http://www.uptownbikes.com/)
 mentioned that the campgrounds in Wisconsin's Kettle Moraine State
@@ -65,7 +65,7 @@ so I had to make do with the few scraps of wood I could gather to
 build a short-lived fire, after which I retreated to my tent for the
 night.
 
-{% flickr_photo 22442117654 'Medium 800' %}
+{% rokka_photo a510f7 "Ottawa Lake Campground at Kettle Moraine" 'Medium 800' %}
 
 In the morning, worried about making the 12:35 PM train (the last for
 four hours), I headed out early and skipped the most scenic country

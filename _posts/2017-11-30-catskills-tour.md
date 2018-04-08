@@ -14,7 +14,7 @@ leaving a very understanding M-- alone with piles of boxes.
 
 ## Day 1
 
-{% flickr_photo 37367053555 "Medium 800" %}
+{% rokka_photo 067cce "IMG_4707" %}
 
 I met up with the group on the Upper West Side on an unseasonably warm
 Tuesday morning.  At six days this would be the longest tour I'd done,
@@ -28,7 +28,7 @@ bottom.
 
 ## Day 2
 
-{% flickr_photo 37367051185 "Medium 800" %}
+{% rokka_photo d34c74 "IMG_4711" %}
 
 Rolling out of Beaver Pond, we took a gorgeous, swoopy detour along
 Seven Lakes and Arden Valley Roads to visit a small mountain lake,
@@ -47,7 +47,7 @@ through through intersections with the rail trail where no signs were
 posted), so we ended up on Sand Hill Road instead--which itself had
 some nice views of the ridge we'd be crossing the following day.
 
-{% flickr_photo 37367046005 "Medium 800" %}
+{% rokka_photo 86ca0d "IMG_4718" %}
 
 We rolled out of Gardiner at the golden hour, reaching the campground
 with just enough time to get set up and take a shower before heading
@@ -70,7 +70,7 @@ sign announcing the policy).
 
 ## Day 3
 
-{% flickr_photo 36554356513 "Medium 800" %}
+{% rokka_photo 8a9836 "IMG_4739" %}
 
 A campground that does not inspire one to linger facilitates an early
 start. At any rate, we needed one to meet Joe (718 Cyclery's owner) at
@@ -85,7 +85,7 @@ compare.) He managed to get [a little
 footage](https://www.instagram.com/p/BZBtTDJHWN6/?taken-by=718_cyclery),
 but a light rain and heavy mist limited visibility.
 
-{% flickr_photo 37194598792 "Medium 800" %}
+{% rokka_photo 4b9897 "IMG_4727" %}
 
 Pretty quickly we left the highway on the old carriage road which
 leads to Awosting Falls, where we took a short break. After returning
@@ -101,7 +101,7 @@ A steep climb out of Napanoch let us out on 55 a bit east of the
 Rondout Reservoir--familiar to me from my [Peekamoose
 overnight](/peekamoose/) last summer--which we soon passed.
 
-{% flickr_photo 37367031845 "Medium 800" %}
+{% rokka_photo 71a9c9 "IMG_4745" %}
 
 During a food stop at the Grahamsville Deli, we got the first
 of the rain that would follow us the rest of our trip. We spent a
@@ -112,11 +112,11 @@ picked up a bundle of firewood in Grahamsville and then a bit more in
 Sundown (where the bait-and-camp-store was unexpectedly open even
 though it was mid-week after Labor Day), so we had a fire at one of the more sheltered campsites.
 
-{% flickr_photo 37224209911 "Medium 800" %}
+{% rokka_photo a00938 "IMG_4755" %}
 
 ## Day 4
 
-{% flickr_photo 37224208651 "Medium 800" %}
+{% rokka_photo 5512d9 "IMG_4757" %}
 
 Friday was, for me, the most difficult day of the tour. It dawned
 bright and clear, and I was hoping for the sunny weather to hold so
@@ -160,7 +160,7 @@ the fire.
 
 ## Day 5
 
-{% flickr_photo 37367022455 "Medium 800" %}
+{% rokka_photo 546924 "IMG_4765" %}
 
 A few months earlier I'd visited Little Pond Campground with M--,
 driving up and riding back to Newburgh. Today we headed out in the

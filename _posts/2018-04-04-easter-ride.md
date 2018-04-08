@@ -3,7 +3,7 @@ layout: post
 title: Easter ride in the Housatonic Valley.
 ---
 
-{% flickr_photo 40494515924 "Medium 800" %}
+{% rokka_photo 0ccc2a "Connecticut back road" %}
 
 Since I moved to Queens I've been trying to get back into the habit of
 taking the train to ride my bike in interesting places as I did when I
@@ -24,14 +24,14 @@ holiday to thank for the low traffic.) I took the Look 585, which I
 bought last fall (in Brewster!) and which I've been liking for these
 kinds of day rides despite persistent shifting issues.
 
-{% flickr_photo 40494515354 "Medium 800" %}
+{% rokka_photo 45c097 "Birch Hill Road, Putnam County, NY" %}
 
 The day started off cloudy, and there was even a little bit of rain
 around the time I stopped for lunch at the [Bull's Bridge
 Inn](http://www.bullsbridge.com/) near the eponymous covered
 bridge. But by the time I'd finished eating it had passed by.
 
-{% flickr_photo 40494516424 "Medium 800" %}
+{% rokka_photo 02b1bb "Bull's Bridge" %}
 
 After lunch I headed up Schaghticoke Road, through the Schaghticoke
 Indian Reservation and into Kent through the grounds of the Kent
@@ -51,6 +51,6 @@ winter in the flat city has cost me whatever climbing legs I'd had in
 the Hudson Valley) and so it was a long, slow haul back to Brewster. I
 caught the 6:10 train.
 
-{%flickr_photo 40494515144 "Medium 800" %}
+{%rokka_photo 795fb5 "fullsizeoutput_59e" %}
 
 ([route](https://ridewithgps.com/trips/21755238))

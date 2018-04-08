@@ -3,7 +3,7 @@ layout: post
 title: Camping at Shabbona Woods.
 ---
 
-{% flickr_photo 17426551143 'Medium 800' %}
+{% rokka_photo 2c826b "DSC01891" 'Medium 800' %}
 
 For the first time this year the Forest Preserve District of Cook
 County is allowing [camping in the Shabbona Woods forest
@@ -21,13 +21,13 @@ Greenway, with the requisite stop at Calumet Fisheries (where we saw
 probably a dozen other cyclists pass through while we ate our
 food):
 
-{% flickr_photo 18047967871 'Medium 800' %}
+{% rokka_photo 45e709 "DSC01908" 'Medium 800' %}
 
 At Calumet Park we saw the only Electoral-College-themed graffiti I've
 ever seen:
 
 <figure>
-{% flickr_photo 17860874629 'Medium 800' %}
+{% rokka_photo eb4fe0 "DSC01912" 'Medium 800' %}
 <figcaption>Note the state-by-state map of the East Coast's electoral votes on the left concrete barrier.</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ campground area had been completely denuded of any trees and had all
 the charm (and privacy) of a parking lot.
 
 <figure>
-{% flickr_photo 17860884889 'Medium 800' %}
+{% rokka_photo 90bcba "DSC01918" 'Medium 800' %}
 <figcaption>This picture makes it look better than it was.</figcaption>
 </figure>
 

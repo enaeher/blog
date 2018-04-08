@@ -3,7 +3,7 @@ layout: post
 title: Metra-cycling—Crystal Lake to Aurora.
 ---
 
-{% flickr_photo 17880762132 'Medium 800' %}
+{% rokka_photo ce3d5f "At the Jefferson Park Metra station" 'Medium 800' %}
 
 I find myself more and more eager to get out of the city these days to
 ride. And since there's only so many times you can head up Sheridan
@@ -18,28 +18,28 @@ bag (in revolutionary red![^1]) from David Banzer of [Treetop
 Bags](http://treetopbags.blogspot.com/)--which replaces an Ostrich bag
 that self-destructed on last week's ride (its first).
 
-{% flickr_photo 17697497839 'Medium 800' %}
+{% rokka_photo 0037c9 "Cafe Olympic in Crystal Lake, Illinois" 'Medium 800' %}
 
 But first I grabbed lunch at the Cafe Olympic just west of the Crystal
 Lake Metra. The $10 Mediterranean chicken lunch special was vastly
 more enjoyable than my eventual dinner at a self-styled "gastropub" in
 Aurora at twice the price. I can't recommend this place enough.
 
-{% flickr_photo 17261233894 'Medium 800' %}
+{% rokka_photo 95567e "Larsen Prairie, McHenry County, Illinois" 'Medium 800' %}
 
 Getting out of Crystal Lake was a little hairy due to construction
 interrupting the trail, but once I was out of town it became very
 nice, passing through conservation areas like Larsen Prairie (above).
 
 
-{% flickr_photo 17263337813 'Medium 800' %}
+{% rokka_photo 95bfb8 "Crossing the Fox River" 'Medium 800' %}
 
 Among the highlights of this route are the numerous river
 crossings. It's interesting to see the character of the river and
 surrounding development change as you head from the more rural
 northern areas to the more developed suburbs to the south.
 
-{% flickr_photo 17857424346 'Medium 800' %}
+{% rokka_photo 19642a "Midland Painted Turtle" 'Medium 800' %}
 
 This painted turtle was trundling along the bike path. I moved him to
 the side so that he wouldn't get crunched (having just read [an
@@ -48,7 +48,7 @@ rescue by bicycle](http://chasingmailboxes.com/2015/05/12/deb-of-women-bikedc-pa
 which stressed turtles' visual orientation, I took care to keep him
 pointed in the same direction).
 
-{% flickr_photo 17884307281 'Medium 800' %}
+{% rokka_photo 89c4e4 "Pratt Castle, Elgin, Illinois" 'Medium 800' %}
 
 As you come into Elgin you pass by [Pratt
 Castle](http://articles.chicagotribune.com/1998-08-11/news/9808110142_1_castle-site-four-story-tower-homemade-armor),
@@ -57,7 +57,7 @@ even more authentic as it has fallen into disrepair. (Will it surprise
 anyone to learn that the builder was an electrical engineer? I suspect
 it will not.)
 
-{% flickr_photo 17263346523 'Medium 800' %}
+{% rokka_photo b04db3 "Downtown Elgin, Illinois (looking south)" 'Medium 800' %}
 
 In downtown Elgin you can take a path out to two man-made islands in
 the river, from which there are nice views of the city. If you look
@@ -70,7 +70,7 @@ connector back onto the Fox River Trail a bit south of here, but it's
 closed for construction through November, so I had to backtrack a bit
 into South Elgin and cross the river on State Street.
 
-{% flickr_photo 17696218930 'Medium 800' %}
+{% rokka_photo 1e9909 "Bridge over the Fox River south of Elgin, Illinois" 'Medium 800' %}
 
 The Fox River Trail, for much of its length, is actually two trails,
 one on either side of the river, and beneath many of the (car) bridges
@@ -79,7 +79,7 @@ connecting them. This is much more pleasant than the usual approach of
 sticking a bike lane (if even that) along the side of a busy and
 heavily-trafficked bridge.
 
-{% flickr_photo 17857445816 'Medium 800' %}
+{% rokka_photo 65d106 "Woonerf in Batavia, Illinois" 'Medium 800' %}
 
 In Batavia I was delighted to come across this
 [woonerf](http://chi.streetsblog.org/2014/06/30/a-woonerf-in-the-west-suburbs-offers-a-sneak-peek-at-argyle-shared-street/),
@@ -91,7 +91,7 @@ action. (Though as you can see from my picture, there wasn't much
 pedestrian activity when I was there. Argyle is much livelier and
 perhaps better suited for this street style.)
 
-{% flickr_photo 17883784095 'Medium 800' %}
+{% rokka_photo 1785d7 "Goslings on the Fox River Trail" 'Medium 800' %}
 
 On the way out of Batavia I ran into several families of geese who'd
 decided to settle on the trail, the parents hissing at me in defense

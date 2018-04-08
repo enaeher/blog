@@ -3,8 +3,8 @@ title: Ride Report&#58; Fox Valley Permanent.
 layout: post
 ---
 
-<!-- {% flickr_photo 18386949240 'Medium 800' %} -->
-{% flickr_photo 17953925403 'Medium 800' %}
+<!-- {% rokka_photo 18386949240 'Medium 800' %} -->
+{% rokka_photo 1a1eab "Fox Valley Permanent, approaching Plano (I think)" 'Medium 800' %}
 
 > Alarm clocks, like automobiles, are mechanical devices which bring me no pleasure and thus I do what I can to avoid them in my daily existence. -- [_Kent Peterson_](http://kentsbike.blogspot.com/2008/10/philosophy-of-adventure.html)
 
@@ -54,7 +54,7 @@ loading my bike onto the Metra home, so I never saw my rolling
 average, though perhaps that's for the best.)
 
 <figure>
-{% flickr_photo 18548212996 'Medium 800' %}
+{% rokka_photo 1b33fb "Fox Valley Permanent - Yorkville Speedway control" 'Medium 800' %}
 <figcaption>Outside the last control in Yorkville.</figcaption>
 </figure>
 

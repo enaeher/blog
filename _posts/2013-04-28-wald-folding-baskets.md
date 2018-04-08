@@ -13,18 +13,18 @@ These baskets are great. They're incredibly practical. They're dirt cheap. The c
 
 Nonetheless, they are well worth the weight. I can keep a folded-up grocery bag in the folded-up basket:
 
-{% flickr_photo 8689006275 "Medium 800" %}
+{% rokka_photo aa93c7 "" %}
 
 And a full grocery bag when the basket has been unfolded:
 
-{% flickr_photo 8690127356 "Medium 800" %}
+{% rokka_photo 4159a8 "" %}
 
 I didn't expect my Filson bag to fit; when it and the Wald basket are placed next to each other, it doesn't look as though it would work. But in fact it fits perfectly:
 
-{% flickr_photo 8690128104 "Medium 800" %}
+{% rokka_photo 9c1cb2 "" %}
 
 If you read about these baskets online you'll find that many people don't like the mounting hardware. Some people replace it with zip-ties. Other people use hose clamps. In fact, I found the "clips" that Wald ships to work fine. But the nice people at [Uptown Bikes](http://www.uptownbikes.com/) who sold me the basket included a packet of #4 allen bolts with nuts and washers, to replace the too-short English-threaded slotted hex head bolts that Wald uses. With the longer bolts, the fittings hold the basket securely to the Planet Bike Eco Rack I've got:
 
-{% flickr_photo 8689009045 "Medium 800" %}
+{% rokka_photo d3bddd "" %}
 
 I mounted this basket fairly far back because I was worried about heel strike; I could probably have gotten away with mounting it a couple inches further forward, and I might eventually move it a little bit. I suspect I'll get a second basket eventually; it would be nice to be able to balance heavier loads a bit more.

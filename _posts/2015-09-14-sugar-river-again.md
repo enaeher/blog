@@ -4,7 +4,7 @@ title: Sugar River by bike.
 ---
 
 <figure>
-  {% flickr_photo 21420738991 'Medium 800' %}
+  {% rokka_photo ad3298 "Dacy Airport in Harvard, Illinois" 'Medium 800' %}
   <figcaption>
     Dacy Airport on the way out of Harvard, Illinois
   </figcaption>
@@ -36,14 +36,14 @@ couldn't get a patch to hold in the wet).
 
 ## Saturday
 
-{% flickr_photo 21401420372 'Medium 800' %}
+{% rokka_photo f71d6b "DSC01965" 'Medium 800' %}
 
 After this ignominious failure I was reluctant to try again. But this
 weekend M-- and I once again made our customary last-minute crosstown
 mad dash for the train (somehow we never manage to get out the door
 with much of a margin). At Harvard we bought some snacks and then headed out.
 
-{% flickr_photo 21386112666 'Medium 800' %}
+{% rokka_photo 863937 "DSC01969" 'Medium 800' %}
 
 In contrast to my earlier trip the weather was perfect, in the high
 sixties and clear. We took the [Long Prairie
@@ -53,7 +53,7 @@ than other Illinois rail trails, passing through a number of small
 towns with services (which in tiny Poplar Grove means homemade tamales at the small grocery just beside the trail) but without much in the way of sprawl, and through
 endless farms in between.
 
-{% flickr_photo 21412420345 'Medium 800' %}
+{% rokka_photo 5a136a "DSC01973" 'Medium 800' %}
 
 At the Winnebago County line the pavement turns to crushed limestone
 and you're now on the [Stone Bridge
@@ -61,7 +61,7 @@ Trail](http://www.traillink.com/trail/stone-bridge-trail.aspx)--and if
 you find yourself here it's absolutely worth walking down the side
 path to get a view of the eponymous bridge from below.
 
-{% flickr_photo 21420939011 'Medium 800' %}
+{% rokka_photo 053a99 "DSC01980" 'Medium 800' %}
 
 Its mass and scale are unexpected in the middle of so much prairie.
 
@@ -82,14 +82,14 @@ rewarded with a long descent to our campsite.
 
 ## Sunday
 
-{% flickr_photo 20789824054 'Medium 800' %}
+{% rokka_photo def563 "DSC01983" 'Medium 800' %}
 
 After a chilly night warmed by bourbon and the campfire, we woke early to the mist
 rising off the river. As on our previous trip we'd stayed in one of the primitive
 walk-in sites right along the Sugar River. (Next time, who knows--maybe we'll go fishing. "A
 pole doesn't weigh much," a local fisherman reminded us as we headed out.)
 
-{% flickr_photo 21224714208 'Medium 800' %}
+{% rokka_photo 8f9aa6 "DSC01997" 'Medium 800' %}
 
 M-- is the adventurous one and she decided she'd had enough of trail riding--we'd
 take the roads back. (Also, her knee had begun to bother her and we

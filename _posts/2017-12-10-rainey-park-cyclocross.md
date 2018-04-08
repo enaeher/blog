@@ -3,7 +3,7 @@ layout: post
 title: Rainey Park Cyclocross.
 ---
 
-{% flickr_photo 38966685101 "Medium 800" %}
+{% rokka_photo b2c40f "fullsizeoutput_4c4" %}
 
 M-- left for her run this morning, and texted me a few minutes later:
 "They're doing cyclocross at the park by Costco." This is how I
@@ -12,7 +12,7 @@ City](https://www.bikereg.com/36694) happens blocks from my
 apartment. Of course I had to head over and have a look.
 
 
-{% flickr_photo 25095434478 "Medium 800" %}
+{% rokka_photo a4eb2a "fullsizeoutput_4c3" %}
 
 This was only the second cross race I've attended (the first being the
 racing at [Montrose
@@ -21,10 +21,10 @@ in Chicago several years ago) but it's my favorite type of bike racing
 to watch, and today's conditions--the day after the first snowfall of
 the year--made it even more interesting.
 
-{% flickr_photo 38966684561 "Medium 800" %}
+{% rokka_photo de6d56 "fullsizeoutput_4c8" %}
 
 I missed the singlespeed race but caught the women's and men's Cat
 1/2/3. All in all this was a great surprise on a lazy Sunday.
 
-{% flickr_photo 38966685571 "Medium 800" %}
+{% rokka_photo 89e415 "fullsizeoutput_4c6" %}
 

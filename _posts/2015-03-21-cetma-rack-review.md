@@ -3,7 +3,7 @@ layout: post
 title: Cetma 7-rail rack long-term review.
 ---
 
-{% flickr_photo 16303542396 "Medium 800" %}
+{% rokka_photo 8eaea2 "DSC01798" %}
 
 It's been a year and a half since I found this wonderful porteur rack
 (on Craigslist, for a song), and the only thing wrong with it is that
@@ -25,17 +25,17 @@ has with this rack.
 
 I've carried firewood:
 
-{% flickr_photo 15160084875 "Medium 800" %}
+{% rokka_photo 74e328 "DSC01658" %}
 
 Camping gear:
 
-{% flickr_photo 15157035262 "Medium 800" %}
+{% rokka_photo 4e1586 "DSC01622" %}
 
 Last year's Christmas tree (this year, we live closer to <a
 href="http://www.gethsemanegardens.com/">Gethsemane</a> and it was
 easier just to walk):
 
-{% flickr_photo 11259927283 "Medium 800" %}
+{% rokka_photo b9881c "DSC01052" %}
 
 And plenty of groceries, take-out, parcels, and so on. I've become one
 of those people who delight in carrying things on their bike that

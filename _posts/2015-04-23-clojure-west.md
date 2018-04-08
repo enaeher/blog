@@ -4,7 +4,7 @@ layout: post
 tag: clojure
 ---
 
-{% flickr_photo 17248486811 "Medium 800" %}
+{% rokka_photo 7a7060 "" %}
 
 I'm just back from lovely Portland (my first visit since 2005--damn,
 has it been that long?), where I attended [Clojure/West

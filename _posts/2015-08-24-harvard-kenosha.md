@@ -4,7 +4,7 @@ title: Harvard&mdash;Kenosha.
 ---
 
 <figure>
-  {% flickr_photo 20642611020 "Medium 800" %}
+  {% rokka_photo 64c557 "R0010021" %}
   <figcaption>A breezy day on Geneva Lake</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ discourage drivers from giving much room as they pass. The next time I
 do this ride I'll skip Burlington and head due east from Lake Geneva
 instead.
 
-{% flickr_photo 20642669658 "Medium 800" %}
+{% rokka_photo e3cca4 "R0010024" %}
 
 To its credit, this route did take me through Lyon, where I had for
 lunch a delicious chocolate-zucchini-bread muffin made with zucchini
@@ -43,7 +43,7 @@ best parts of the ride, the rollers along Reese and Hebron Roads and
 then Hillside Road into Wisconsin. (The descents were especially
 exhilirating on a fixed gear.[^1])
 
-{% flickr_photo 20816902152 "Medium 800" %}
+{% rokka_photo 243e10 "End-of-ride waiting-for-the-train beer in Kenosha" %}
 
 With the help of a stiff tailwind I made it to Kenosha with plenty of
 time before the next (and only) train of the afternoon. A very

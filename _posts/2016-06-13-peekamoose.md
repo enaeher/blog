@@ -3,7 +3,7 @@ layout: post
 title: Peekamoose overnight.
 ---
 
-{% flickr_photo 27354007440 'Medium 800' %}
+{% rokka_photo ea0beb "DSC02399" 'Medium 800' %}
 
 Last weekend, with M-- in the city visiting friends, I took my first
 overnight bike trip in New York, to the Peekamoose campground in the
@@ -12,7 +12,7 @@ Catskills. (M-- and I camped there by car a few weeks ago.)
 ## Saturday
 
 <figure>
-    {% flickr_photo 27022418333 'Medium 800' %}
+    {% rokka_photo 86abe0 "DSC02373" 'Medium 800' %}
     <figcaption>The Velo Orange Randonneur in mullet-bike mode: rando in the front, bikepacking in the back</figcaption>
 </figure>
 
@@ -23,7 +23,7 @@ the time I got through Walden the rain had stopped, and, defying the
 forecast, held off for the rest of the ride.
 
 <figure>
-    {% flickr_photo 27558279941 'Medium 800' %}
+    {% rokka_photo f7f618 "DSC02378" 'Medium 800' %}
     <figcaption>Approaching the Shawangunks on Bruyn Turnpike</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ a brief stop at the overlook I began the (terrifying) descent into
 Ellenville. (Until I moved here I never understood the
 desire for disc brakes on road bikes; now I get it.)
 
-{% flickr_photo 27558280211 'Medium 800' %}
+{% rokka_photo 78cd48 "DSC02383" 'Medium 800' %}
 
 In Ellenville I stopped into
 [Aroma Thyme](http://www.aromathymebistro.com/), a restaurant with a
@@ -41,19 +41,19 @@ terrible name and logo but great food. Fortified by beer, trout, and
 fancy pickles, I continued toward the campground.
 
 <figure>
-    {% flickr_photo 27631653345 %}
+    {% rokka_photo 8d6b02 "IMG_3458" %}
     <figcaption>The advent of the ubiquitous pickle platter is a boon to the touring cyclist</figcaption>
 </figure>
 
 After Ellenville there are no further towns to speak of and almost no services. The route climbs toward the Rondout Reservoir and then follows its northern shore along NY 55.
 
 <figure>
-    {% flickr_photo 27021251494 'Medium 800' %}
+    {% rokka_photo 2af44f "DSC02389" 'Medium 800' %}
     <figcaption>Somewhere along here you enter Catskill Park.</figcaption>
 </figure>
 
 <figure>
-    {% flickr_photo 27597655746 'Medium 800' %}
+    {% rokka_photo e3af24 "DSC02391" 'Medium 800' %}
     <figcaption>At the eastern end of the reservoir</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ back. But at that moment a friendly couple in a pickup truck stopped
 and offered to carry the firewood and leave it at the campground, so I
 was able to ride back and still have a cheery, if brief, campfire.
 
-{% flickr_photo 27707976555 %}
+{% rokka_photo 7cb16d "IMG_3464" %}
 
 This was my first trip where I got to use all of my lightweight summer
 solo-trip gear together: my
@@ -94,7 +94,7 @@ seat bag and make a great system for warm-weather camping.
 ## Sunday
 
 <figure>
-    {% flickr_photo 27558282551 'Medium 800' %}
+    {% rokka_photo c8621c "DSC02403" 'Medium 800' %}
     <figcaption>Peekamoose Road</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ of the Ashokan Reservoir, which is briefly visible as you pass by the
 [Ashokan Dreams](http://www.ashokandreams.com/) B&B.
 
 <figure>
-    {% flickr_photo 27558283581 'Medium 800' %}
+    {% rokka_photo 734ab5 "DSC02408" 'Medium 800' %}
     <figcaption>Ashokan Reservoir</figcaption>
 </figure>
 
@@ -115,7 +115,7 @@ the Walkill Valley Rail Trail and then down over the Rosendale
 Trestle.
 
 <figure>
-    {% flickr_photo 27021259724 'Medium 800' %}
+    {% rokka_photo 8980c9 "DSC02423" 'Medium 800' %}
     <figcaption>View of Rosendale from the trestle</figcaption>
 </figure>
 
