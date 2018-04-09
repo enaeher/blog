@@ -95,6 +95,13 @@ h1 {
   margin-bottom: 1rem;
 }
 
+@font-face {
+    font-family: 'ArrrowsRegular';
+    src: url('../fonts/arrrows-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 h1 .prev {
   font-family: 'ArrrowsRegular';
   font-style: normal;
