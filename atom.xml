@@ -17,7 +17,7 @@ layout: null
   {% for post in site.posts %}
   <entry>
     <id>http://eli.naeher.name{{ post.id }}</id>
-    <link type="text/html" rel="alternate" href="http://eli.naeher.name/{{ post.url }}"/>
+    <link type="text/html" rel="alternate" href="http://eli.naeher.name{{ post.url }}"/>
     <title>{{ post.title }}</title>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
