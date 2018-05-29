@@ -1,0 +1,22 @@
+---
+layout: post
+title: Ride Report&#58; Keep the River on Your Right Permanent.
+---
+
+{% rokka_photo 3671098dded03e36af7d32d82f13fabb754c3de5 "Hamlet of Alsen: Had a cement plant, 2 mushroom farms, a school, post office, 2 grocery stores, railroad station, population about 300" %}
+
+It's been almost three years since [my last 200k ride](/fox-valley-permanent)--apparently that's how long it takes me to forget just how much riding that is. Having thus forgotten, and feeling unduly emboldened after riding the [Jones Beach Populaire](/jones-beach-populaire) last month, I signed up for [George Swain's Keep the River on your Right permanent](http://thehudsonvalleyrandonneur.blogspot.com/p/rusa-permanent-routes.html), along with J.D. (a fellow populaire rider). His friend Jamie accompanied us informally.
+
+Saturday morning we caught the first train to Poughkeepsie (the start is just across the river in Highland), which is not as early as it might be; we started at 9:00, really too late for a ride this long. We started at a moderate pace; this was the hottest day of the spring so far, reaching nearly 90°F, and deeply humid, encouraging a certain lassitude.
+
+I'm afraid this will not be a post with lots of scenic pictures; the permanent owner designed this route to be ridable in winter, staying on main roads (mainly state routes 9W, 9, and 9D) with wide shoulders. These were rarely scenic and were heavily trafficked, but I knew what to expect and didn't mind; I've ridden enough in the mid-Hudson Valley to know that any more-scenic 200k route in this region would be paid for with brutal climbing. (As none of us was in a position to be blasé about a 200k ride, we thought it best to stick with a flatter route.)
+
+One advantage to sticking to the relatively straight highways was the sheer area we covered--before the day was done we'd ridden through Ulster, Greene, Columbia, Dutchess, and Orange Counties (not to mention two area codes). Most of the northern section of the route was new to me, and the section north of Saugerties was especially nice--9W here is a two-lane road, with the old New York Central rail line (now operated as a freight line by CSX) sometimes only a few feet away. (The trains on this line used to wake me up at night in Newburgh.)
+
+We passed through a number of small river towns--Kingston (passing over the docks of the Hudson River Maritime Museum, I looked for but didn't see the little catboat we gave them when we moved to the city), Saugurties, Catskill, Hudson, Red Hook, Rhinebeck, and then the more familiar towns to the south: Wappingers Falls, the outskirts of Beacon and Newburgh, and Marlboro. (Near the end the route we left the highways to take River Road through Balmville north of Newburgh, where the damage from the tornado of May 15 was very apparent, with many large trees down and stone walls damaged.)
+
+The last stretch on 9W between River Road and Highland was quite rough. The permanent owner warned us we'd be cursing his name here, and he wasn't wrong; with the sun setting, traffic heavy, shoulders full of debris, some of the most concentrated climbing of the ride, and many miles in our legs, we struggled here. It was approaching 9:00 pm when we reached the final control at a gas station in Highland. (We probably spent too long at lunch and other stops, and two flats had slowed us down--a third I only discovered at the finish.)
+
+At this point we were faced with a dilemma: we'd crossed over to Highland from Poughkeepsie on the Walkway over the Hudson, which is conceived more as a tourist attaction than a piece of transportation infrastructure and closes promptly at sunset. I hoped we'd be able to cross on the Mid-Hudson Bridge, which has a pedestrian and bike pathway, but I worried that it too might be closed--and bikes are not allowed on the main roadway of this bridge. Indeed, when we reached the bridge (a short and blessedly-downhill ride from the gas station), a sign read "Park closes at dusk," but the gate was still open, the path brightly-lit, and we easily made our way across to catch the 9:50 train to Grand Central.
+
+_(N.B.: If you want to ride this route as a RUSA permanent, note that the current cue sheet differs significantly from the RideWithGPS route linked from George Swain's site; there's no link here because I don't have a route that accurately reflects what we rode.)_
