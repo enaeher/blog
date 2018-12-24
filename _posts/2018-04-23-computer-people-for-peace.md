@@ -32,9 +32,10 @@ editors seemed to enjoy printing letters from subscribers complaining
 that it was too radical.
 
 (N.B.: Tamiment doesn't have the whole run, only numbers 5-10 and
-12-20, and I ran out of time before I could scan number 20 (which was
-unique in being published by the Chicago rather than the New York
-branch). I apologize for the poor-to-very-poor quality of these
+12-20, ~~and I ran out of time before I could scan number 20 (which
+was unique in being published by the Chicago rather than the New York
+branch)~~ Jen Kagan was kind enough to scan number 20, which is now
+included below. I apologize for the poor-to-very-poor quality of these
 images; Tamiment doesn't provide a copier or scanner which patrons can
 use, so I took pictures with my phone. Some came out better than
 others. Hopefully they're mostly legible.)
@@ -53,5 +54,6 @@ others. Hopefully they're mostly legible.)
 - [_Interrupt_ #17](/pdfs/interrupt-17.pdf) (March 1972)
 - [_Interrupt_ #18](/pdfs/interrupt-18.pdf) (May 1972)
 - [_Interrupt_ #19](/pdfs/interrupt-19.pdf) (January 1973)
+- [_Interrupt_ #20](/pdfs/interrupt-20.pdf) (March 1973)
 
 [^1]: In fact the Poughkeepsie contact gave an address in Beacon, NY, just across the river from my former home in Newburgh. While I would like to attribute this to some secret quality of the mid-Hudson-Valley as a nexus of hidden leftist currents (did you know that ["Banks of Marble"](https://www.youtube.com/watch?v=x-o3CJytIPE) was written by an apple farmer living just outside of Newburgh?), this was the heyday of IBM, which had opened a plant in Poughkeepsie in 1948 and employed many computer workers throughout the region.
