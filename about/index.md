@@ -7,7 +7,7 @@ title: About.
 
 {% rokka_photo f44b57 "At Illini State Park" %}
 
-I'm a Lisp programmer living in New York. I wrote Common Lisp for a while; more recently I've been writing Clojure for [Healthfinch](http://www.healthfinch.com/). I like bikes and Emacs.
+I'm a Lisp programmer living in New York. I wrote Common Lisp for a while; more recently I've been writing Clojure for [Clubhouse](https://clubhouse.io/). I like bikes and Emacs.
 
 Elsewhere:
 
