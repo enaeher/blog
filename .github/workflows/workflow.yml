@@ -1,0 +1,28 @@
+name: Build jekyll site
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  jekyll:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup
+        uses: actions/checkout@v2
+
+        # include the lines below if you are using jekyll-last-modified-at
+        # or if you would otherwise need to fetch the full commit history
+        # however this may be very slow for large repositories!
+        # with:
+        # fetch-depth: '0'
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6 # can change this to 2.7 or whatever version you prefer
+
+      - name: Build site
+        uses: limjh16/jekyll-action-ts@v2
+        with:
+          enable_cache: true
