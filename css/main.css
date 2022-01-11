@@ -38,6 +38,18 @@ p, figure {
   hyphens: auto;
 }
 
+.comment-body p {
+  margin-top: 0;
+}
+
+p.comment-attribution {
+  margin-bottom: 0;
+  text-align: left;
+  font-size: .75rem;
+  line-height: 1;
+
+}
+
 img {
   border-radius: 10px;
   display: block;
@@ -144,6 +156,7 @@ p.entry-meta {
   font-style: italic;
   font-size: 36px;
   margin: 1rem;
+  clear: both;
 }
 
 .footnotes {
@@ -159,4 +172,64 @@ p.entry-meta {
 
 pre {
   white-space: pre-wrap;
+}
+
+/* Comment form */
+
+#comment-form {
+  margin-top: 1.8rem;
+  margin-bottom: 4rem;
+}
+
+input, textarea {
+  display: block;
+  width: 100%;
+  margin-top: .2rem;
+  margin-bottom: .2rem;
+  padding: .2em;
+  border: none;
+  background-color: #f5f5f5;
+  font-size: 24px;
+  hyphens: auto;
+  font-family: 'Aften Screen', sans-serif;
+}
+
+.top-input {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.bottom-input {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+}
+
+button {
+  border-radius: 10px;
+  margin-top: .2rem;
+  margin-bottom: .2rem;
+  padding: .2em;
+  padding-left: .5em;
+  padding-right: .5em;
+  border: none;
+  font-size: 24px;
+  font-family: 'Aften Screen', sans-serif;
+  font-style: italic;
+  text-align: right;
+  background-color: transparent;
+  color: #D6521A;
+  float: right;
+}
+
+button:hover {
+  background-color: #D6521A;
+  color: white;
+}
+
+button:before {
+  font-family: 'ArrrowsRegular';
+  font-style: normal;
+  /* right arrow */
+  content: 'i ';
 }

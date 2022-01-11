@@ -10,6 +10,46 @@
       {% endif %} 
     </h1>
     {{ content }}
+
+    <!-- Date footer -->
     <p class="entry-meta">
       <abbr class="published">{{ post.date | date: "%B" }} {{ post.date | date: "%-d" }}, {{ post.date | date: "%Y" }}</abbr>
     </p>
+
+    <!-- Comments -->
+    {% if site.data.comments[page.slug] %}
+      <h2>
+        {% if site.data.comments[page.slug].size > 1 %}
+          {{ site.data.comments[page.slug] | size }}
+        {% endif %}
+        Comments
+      </h2>
+      {% assign comments = site.data.comments[page.slug] | sort %}
+      {% for comment in comments %}
+              <p class="comment-attribution">
+          {% if comment[1].url %}
+            <a href="{{ comment[1].url }}">
+          {% endif %}
+          {{ comment[1].name }}{% if comment[1].url %}</a>{% endif %},
+            {{ comment[1].date | date: "%B %d, %Y" }}:
+            </p>
+        <div class="comment-body">
+          {{ comment[1].comment | markdownify }}
+        </div>
+
+      {% endfor %}
+    {% endif %}
+
+    {% assign comments = site.data.comments | where:'product',page.slug %}
+
+    <!-- Comment form -->
+    <form id="comment-form" method="POST" action="https://elinaeher-staticman.herokuapp.com/v3/entry/github/enaeher/blog/master/comments">
+      <input name="options[redirect]" type="hidden" value="{{ post.url | absolute_url }}">
+      <!-- e.g. "2016-01-02-this-is-a-post" -->
+      <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+      <input class="top-input" name="fields[name]" type="text" placeholder="name" required>
+      <input name="fields[email]" type="email" placeholder="email" required>
+      <input name="fields[url]" type="url" placeholder="website (optional)">
+      <textarea class="bottom-input" name="fields[comment]" placeholder="comment" required></textarea>
+      <button type="submit">Submit Comment (Moderated)</button>
+    </form>
