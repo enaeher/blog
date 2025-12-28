@@ -1,0 +1,131 @@
+@font-face {
+    font-family: 'TelefonWeb Light';
+    src: url('TelefonWeb-Light.eot');
+    src: url('TelefonWeb-Light.eot?#iefix') format('embedded-opentype'),
+    	 url('TelefonWeb-Light.woff2') format('woff2'),
+         url('TelefonWeb-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'TelefonWeb Light';
+    src: url('TelefonWeb-LightItalic.eot');
+    src: url('TelefonWeb-LightItalic.eot?#iefix') format('embedded-opentype'),
+    	 url('TelefonWeb-LightItalic.woff2') format('woff2'),
+         url('TelefonWeb-LightItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'TelefonWeb Blond';
+    src: url('TelefonWeb-Blond.eot');
+    src: url('TelefonWeb-Blond.eot?#iefix') format('embedded-opentype'),
+    	 url('TelefonWeb-Blond.woff2') format('woff2'),
+         url('TelefonWeb-Blond.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'TelefonWeb Blond';
+    src: url('TelefonWeb-BlondItalic.eot');
+    src: url('TelefonWeb-BlondItalic.eot?#iefix') format('embedded-opentype'),
+    	 url('TelefonWeb-BlondItalic.woff2') format('woff2'),
+         url('TelefonWeb-BlondItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'TelefonWeb Normal';
+    src: url('TelefonWeb-Normal.eot');
+    src: url('TelefonWeb-Normal.eot?#iefix') format('embedded-opentype'),
+    	 url('TelefonWeb-Normal.woff2') format('woff2'),
+         url('TelefonWeb-Normal.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'TelefonWeb Normal';
+    src: url('TelefonWeb-NormalItalic.eot');
+    src: url('TelefonWeb-NormalItalic.eot?#iefix') format('embedded-opentype'),
+    	 url('TelefonWeb-NormalItalic.woff2') format('woff2'),
+         url('TelefonWeb-NormalItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'TelefonWeb Medium';
+    src: url('TelefonWeb-Medium.eot');
+    src: url('TelefonWeb-Medium.eot?#iefix') format('embedded-opentype'),
+    	 url('TelefonWeb-Medium.woff2') format('woff2'),
+         url('TelefonWeb-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'TelefonWeb Medium';
+    src: url('TelefonWeb-MediumItalic.eot');
+    src: url('TelefonWeb-MediumItalic.eot?#iefix') format('embedded-opentype'),
+    	 url('TelefonWeb-MediumItalic.woff2') format('woff2'),
+         url('TelefonWeb-MediumItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'TelefonWeb Bold';
+    src: url('TelefonWeb-Bold.eot');
+    src: url('TelefonWeb-Bold.eot?#iefix') format('embedded-opentype'),
+    	 url('TelefonWeb-Bold.woff2') format('woff2'),
+         url('TelefonWeb-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'TelefonWeb Bold';
+    src: url('TelefonWeb-BoldItalic.eot');
+    src: url('TelefonWeb-BoldItalic.eot?#iefix') format('embedded-opentype'),
+    	 url('TelefonWeb-BoldItalic.woff2') format('woff2'),
+         url('TelefonWeb-BoldItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'TelefonWeb Black';
+    src: url('TelefonWeb-Black.eot');
+    src: url('TelefonWeb-Black.eot?#iefix') format('embedded-opentype'),
+    	 url('TelefonWeb-Black.woff2') format('woff2'),
+         url('TelefonWeb-Black.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'TelefonWeb Black';
+    src: url('TelefonWeb-BlackItalic.eot');
+    src: url('TelefonWeb-BlackItalic.eot?#iefix') format('embedded-opentype'),
+    	 url('TelefonWeb-BlackItalic.woff2') format('woff2'),
+         url('TelefonWeb-BlackItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+
+}

@@ -1,26 +1,23 @@
 /* General */
 
-*, *:before, *:after {
-               -moz-box-sizing: border-box;
-               -webkit-box-sizing: border-box;
-               box-sizing: border-box;
-             }
+/* *, *:before, *:after { */
+/*                -moz-box-sizing: border-box; */
+/*                -webkit-box-sizing: border-box; */
+/*                box-sizing: border-box; */
+/*              } */
 
 html {
-  font-family: 'Lato', sans-serif;
-  font-size: 24px;
+  font-family: 'Aften Screen', sans-serif;
   line-height: 1.45;
-  width: 50rem;
+  font-size: 125%;
   margin-left: auto;
   margin-right: auto;
   text-rendering: optimizeLegibility;
 }
 
-body {
-  margin: 0;
-}
-
 h1,h2,h3,h4,h5,h6 {
+  font-family: 'Telefonweb Black', sans-serif;
+  font-weight: normal;
   font-style: italic;
   line-height: 1.2;
 }
@@ -30,7 +27,7 @@ p, figure, li {
   font-family: 'Aften Screen', sans-serif;
 }
 
-p, figure {
+p {
   margin: 0;
   padding: 0;
   margin-top: 1.2rem;
@@ -38,16 +35,11 @@ p, figure {
   hyphens: auto;
 }
 
-.comment-body p {
-  margin-top: 0;
-}
-
-p.comment-attribution {
-  margin-bottom: 0;
-  text-align: left;
-  font-size: .75rem;
-  line-height: 1;
-
+figure {
+  margin: 0;
+  padding: 0;
+  float: right;
+  width: fit-content;
 }
 
 img {
@@ -55,6 +47,11 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  max-width: 100%;
+  max-height: 30rem;
+  float: right;
+  margin-left: 1em;
+  margin-bottom: 1em;
 }
 
 img.book-cover {
@@ -67,7 +64,8 @@ figcaption {
   font-size: smaller;
   font-style: italic;
   margin-top: 1rem;
-  width: 50%;
+  margin-bottom: 1rem;
+  max-width: 22rem;
   margin-left: auto;
   margin-right: auto;
 }
@@ -76,6 +74,11 @@ a {
   font-size: inherit;
   text-decoration: none;
   color: #D6521A;
+  color: #b64616;
+}
+
+.emoji {
+  filter: grayscale(100%);
 }
 
 a:hover {
@@ -100,59 +103,65 @@ tt, code, pre, kbd, samp {
 /* Title */
 
 h1 {
-  font-weight: 900;
   position: relative;
-  font-size: 48px;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
+  font-size: 2rem;
+  margin-bottom: 0;
 }
 
-@font-face {
-    font-family: 'ArrrowsRegular';
-    src: url('../fonts/arrrows-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
+/* If there is room, display navigation arrows outside #main (width:
+   40rem). Otherwise, display inline. */
 
-h1 .prev {
-  font-family: 'ArrrowsRegular';
-  font-style: normal;
-  position: absolute;
-  left: -2.5rem;
-}
+@media (min-width: 45rem) {
+  h1 .prev {
+    position: absolute;
+    left: -2.5rem;
+  }
 
-h1 .next {
-  font-family: 'ArrrowsRegular';
-  font-style: normal;
-  position: absolute;
-  top: 0;
-  right: -2.5rem;
+  h1 .next {
+    position: absolute;
+    top: 0;
+    right: -2.5rem;
+  }
+
+  /* also float the date right */
+
+  .entry-meta {
+    float: right;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+  }
 }
 
 /* Subheadings */
 
 h2 {
-  font-size: 32px;
+  font-size: 1.25rem;
   margin-top: 2rem;
+  margin-bottom: 0;
 }
 
 /* Other sections */
 
 #main {
-  float: left;
-  position: relative;
-  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 40rem;
 }
 
-p.entry-meta {
+.entry-meta {
+  font-family: 'TelefonWeb Black', sans-serif;
   font-style: italic;
   text-align: right;
-  color: #235A81;
+  color: #AAA9A4;
 }
 
 .nav {
-  font-weight: 900;
   text-align: center;
+  font-family: 'TelefonWeb Black', sans-serif;
+  font-style: italic;
+  line-height: 1.2;
   font-style: italic;
   font-size: 36px;
   margin: 1rem;
@@ -172,64 +181,4 @@ p.entry-meta {
 
 pre {
   white-space: pre-wrap;
-}
-
-/* Comment form */
-
-#comment-form {
-  margin-top: 1.8rem;
-  margin-bottom: 4rem;
-}
-
-input, textarea {
-  display: block;
-  width: 100%;
-  margin-top: .2rem;
-  margin-bottom: .2rem;
-  padding: .2em;
-  border: none;
-  background-color: #f5f5f5;
-  font-size: 24px;
-  hyphens: auto;
-  font-family: 'Aften Screen', sans-serif;
-}
-
-.top-input {
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
-}
-
-.bottom-input {
-  border-bottom-left-radius: 10px;
-  border-bottom-right-radius: 10px;
-
-}
-
-button {
-  border-radius: 10px;
-  margin-top: .2rem;
-  margin-bottom: .2rem;
-  padding: .2em;
-  padding-left: .5em;
-  padding-right: .5em;
-  border: none;
-  font-size: 24px;
-  font-family: 'Aften Screen', sans-serif;
-  font-style: italic;
-  text-align: right;
-  background-color: transparent;
-  color: #D6521A;
-  float: right;
-}
-
-button:hover {
-  background-color: #D6521A;
-  color: white;
-}
-
-button:before {
-  font-family: 'ArrrowsRegular';
-  font-style: normal;
-  /* right arrow */
-  content: 'i ';
 }

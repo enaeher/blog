@@ -1,17 +1,16 @@
+    <p class="entry-meta">
+      <abbr class="published">{{ post.date | date: "%B" }} {{ post.date | date: "%-d" }}, {{ post.date | date: "%Y" }}</abbr>
+    </p>
+
     <h1>
       {% if post.previous.url %} 
-        <a class="prev" href="{{post.previous.url}}">I</a>
+        <a class="prev" href="{{post.previous.url}}" title="{{post.previous.title}}">←</a>
       {% endif %} 
       <a href="{{ post.url }}" title="{{ post.title | strip_html }}">
 	{{ post.title }}
       </a>
       {% if post.next.url %} 
-        <a class="next" href="{{post.next.url}}">i</a> 
+        <a class="next" href="{{post.next.url}}" title="{{post.next.title}}">→</a>
       {% endif %} 
     </h1>
     {{ content }}
-
-    <!-- Date footer -->
-    <p class="entry-meta">
-      <abbr class="published">{{ post.date | date: "%B" }} {{ post.date | date: "%-d" }}, {{ post.date | date: "%Y" }}</abbr>
-    </p>
