@@ -1,8 +1,7 @@
-    <p class="entry-meta">
+    <div class="entry-meta">
       <abbr class="published">{{ post.date | date: "%B" }} {{ post.date | date: "%-d" }}, {{ post.date | date: "%Y" }}</abbr>
-    </p>
-
-    <h1>
+    </div>
+    <h1 id="title">
       {% if post.previous.url %} 
         <a class="prev" href="{{post.previous.url}}" title="{{post.previous.title}}">←</a>
       {% endif %} 

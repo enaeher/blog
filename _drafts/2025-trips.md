@@ -1,0 +1,258 @@
+---
+layout: post
+title: Sleeping outside in 2025.
+---
+
+I spend 16 nights outside in 2025--far fewer than in past years. I did
+more non-camping traveling, and I was unemployed for most of the first
+half of the year (which seems like it would facilitate more trips, but
+with constant interviewing and a limited budget, it didn't work out
+that way).
+
+## 🚲 January 25-26: Ninham Mountain
+
+<figure>
+  {% rokka_photo bcfb2f %}
+  <figcaption>Josh trying to warm himself up over the morning fire.</figcaption>
+</figure>
+
+This was a cold one, with lows in the teens. I'd just come back from a
+month in Mexico and I worried I wouldn't be sufficiently acclimated to
+the cold. But I was plenty warm, despite somehow managing to lose a
+single [pogie](https://7rbags.com/pogies-pocket-epx-black/) just
+outside Croton Falls. (Josh and I retraced my steps multiple times,
+and I came back a week later when the snow had melted to check again,
+but it was gone without a trace.) The air was bone-dry and we had a
+roaring fire in the snow.
+
+[Day 1](https://ridewithgps.com/trips/249928821)<br>
+(I didn't record Day 2 for some reason, maybe my phone was dead?)<br>
+
+## 🚲 April 14-15: Lundy Road
+
+Another trip with Josh over the Shawangunk Ridge (where we pushed our
+bikes through the late-season snow we hadn't planned for). We ate
+steak at Aroma Thyme in Ellenville and camped up the hill off Lundy
+Road. Josh forgot one hammock strap so we used some doubled-up
+guy-line and it held through the night. In the morning somebody from
+Brooklyn at the Kerhonkson Diner clocked my Fairlight (this part of
+the Hudson Valley is full of city people these days).
+
+[Day 1](https://ridewithgps.com/trips/270654962)<br>
+[Day 2](https://ridewithgps.com/trips/270701599)<br>
+
+## <span class="emoji">🚲</span> May 10-11: California Hill
+
+An old-school ADV spot with an old-school ADV crew: Josh, Annie,
+Shanit, Jason, and Isaac. Jason and Isaac were both training for some
+grueling ultra-endurance thing and took separate (and much harder)
+routes to camp. It wasn't quite swimming weather yet, but we hung out
+on a rock on Waywayanda Lake and watched the stars come out.
+
+[Day 1](https://ridewithgps.com/trips/281302844)<br>
+[Day 2](https://ridewithgps.com/trips/284999564)<br>
+
+## <span class="emoji">🚗</span> May 26-27: Tolland State Forest
+
+Maria and I rented a Zipcar and drove up to meet friends on the second
+night of their Memorial Day weekend trip, at a beautiful campsite
+overlooking the Otis Reservoir. It was strange to think that the
+previous year on the same weekend I'd done a bike trip in Central New
+York with many of the same people, recently divorced and feeling very,
+very single; I would end up meeting Maria only a few weeks later.
+
+On the second day we had perfect weather, and rented a canoe on the
+Mad River in Connecticut.
+
+## <span class="emoji">🚲</span>/<span class="emoji">🚗</span> June 7-8: Taconic State Park for Mimi's and Michelle's Birthdays
+
+This was Maria's first bike-camping trip--a (qualified)
+success. Jessica lent her a very good bike-camping bike with dynamos,
+etc., but the fit wasn't quite right and Maria became less and less
+comfortable as the ride progressed. This was not helped by several
+factors:
+
+- I forgot to warn her that she would need to eat and drink more than
+  normal, and she was bonking hard
+- She had gotten minimal sleep the night before because she was
+  doomscrolling
+  [r/ladycyclists](https://www.reddit.com/r/ladycyclists/) reading all
+  kinds of horror stories about saddle sores, mechanicals, and getting
+  dropped
+- I kept regaling her with stories about seeing seeing bears on the
+  very same rail trail we were riding
+  
+But she was a good sport and we made it to camp just at sunset. It was
+a big crowd for the joint birthday party, and a convivial night. In
+the morning we hiked to Bash Bish Falls, then borrowed Mimi's car to
+head back to the train at Wassaic.
+
+[Day 1](https://ridewithgps.com/trips/296419446)<br>
+
+## <span class="emoji">🚲</span> July 4-6: Lundy Road and Colgate Lake
+
+This was classic Catskills summer riding with Josh and Jason: two
+nights, two swimming holes, fireworks, and lots of climbing. Maria had
+invited me to watch the NYC fireworks from her office in the Empire
+State Building, where the view would be spectacular, but I was itching
+for a real bike-camping trip, so I reluctantly passed up the
+invitation.
+
+After we set up camp along Lundy Road on the Fourth, we descended back
+into Warwarsing and then rode toward Ellenville until we found
+somebody with a well-situated yard with a clear view of the local
+fireworks. They were kind enough to let us set up our camp chairs to
+watch.
+
+We spent the second night at a very-crowded Colgate Lake. I snagged a
+great campsite overlooking the lake--just in time, because soon a
+steady stream of would-be campers showed up there looking for the same
+spot.
+
+In the morning Jason and I woke early. We packed our things. We made
+coffee. I enjoyed a leisurely swim. Josh was still sleeping
+soundly. Jason made a couple attempts to wake him up, but nothing
+worked. Finally, overcome by hunger, we left without him and descended
+to the diner on Route 23A. Josh found us there half an hour or so
+later, full of eggs and pancakes. He was none too happy with us.
+
+My fitness was very poor on this trip (my first "real" bike trip in
+two months) and I spent most of it off the back, but it was fine
+weather and good to be out in the mountains.
+
+[Day 1](https://ridewithgps.com/trips/304319677)<br>
+[Day 1 (fireworks excursion)](https://ridewithgps.com/trips/304319679)<br>
+[Day 2](https://ridewithgps.com/trips/304723745)<br>
+[Day 3](https://ridewithgps.com/trips/305077568)<br>
+
+## <span class="emoji">🚲</span> August 16-17: Emily's Birthday
+
+My Fairlight was in the shop for something like two months[^1]. There
+is a long and tedious saga here about carbon failure risk, fork-pack
+mount design, internal dynamo routing, and SON's proprietary coaxial
+wire, but I won't bore you with all of it. The point is I didn't have
+a camping-ready bike for most of the prime summer bikepacking months
+and it sucked.
+
+But! for her birthday, Emily planned an overnight trip on flat Long
+Island, so I could manage without gears. And it was high summer so I
+could pack minimally. And so for the first time I went camping on my
+fixed-gear bike.
+
+It has no affordances for racks so I strapped a dry bag to the saddle
+and overstuffed my handlebar bag and somehow that was enough for a
+summer overnight. We ate fancy Hamptons donuts and stopped at Hamptons
+wineries and rode past lavender farms and miles-long traffic jams and
+took the Shelter Island ferries. We camped by the beach and swam in
+questionable water. I didn't pack a stove so in the morning I rode 10
+minutes to a coffee shop and rode back to camp one-handed with a latte
+in my other hand.
+
+Long Island's charms (as others see them) are lost on me--too many
+memories of hours spent in traffic on the LIE going to my
+grandparents' houses growing up. But I was very grateful to be able to
+go riding and camping with friends on my fixie.
+
+[Day 1](https://ridewithgps.com/trips/321036771)<br>
+[Day 2](https://ridewithgps.com/trips/321342564)<br>
+
+## <span class="emoji">🚗</span> August 21-23: Vermont
+
+Maria wanted to show me her places and I wanted to show her mine, so
+we rented a car and drove to Vermont (where I've spent so many weeks
+riding and camping) and then to Boston (where she went to school).
+
+The first night in Vermont we camped at the USFS campground at Grout
+Pond, where I'd never been. Due to a planning error (mine) we arrived
+with no reservations. Every site was reserved; every site had a tag
+indicating who had reserved it, and when. One site, though, had been
+reserved for an entire week, by someone named Kavanaugh. We were three
+days into that reservation, the sun was setting, and there was no sign
+of anyone at the campsite. We gambled that the odds were low that the
+Kavanaughs would show up after dark on the third night of a six-night
+reservation and set up our tent, prepared to swear to any inquisitive
+forest ranger that we were Mr. and Mrs. Kavanaugh. But nobody ever
+showed and we had a great time lazing around the fire and swimming in
+the clear lake.
+
+The second night we camped at the USFS campground at Silver Lake,
+where I camped [in 2018](/vermont) on a rainy night in October when I
+had the whole place to myself. This time we weren't alone, but it felt
+like it. Our site was secluded and spacious, with tall pines and a
+path down to the lake. We spent the evening swimming; in the morning,
+Maria slept in while I read for hours by the fire.
+
+From Silver Lake we turned south again toward Boston, where we stayed
+a few days with her boarding-school roommate and where she showed me
+all of her formative places.
+
+## <span class="emoji">🚲</span> October 11-12: Macedonia Brook
+
+Maria and I had planned to join by car but she got sick so I packed
+the bike and rode with the others. In the first few miles climbing out
+of Wassaic, Annie--several months pregnant--fell behind and was
+feeling bad about not it, until she realized she had been riding on a
+flat tire.
+
+Mimi planned this one so you know we stopped at a winery. Zeno--on the
+later train--caught up with us there and rode with us for the next
+couple hours--but as the day wore on it grew a bit drizzly and cold,
+and he eventually decided to catch the train back instead of camping.
+
+We were glad finally to arrive at our campsite, where Mimi's boyfriend
+Mike was waiting for us and where Emily arrived shortly after we did,
+having taken a late train. We piled into Mike's car for a ride into
+town for a fancy dinner at Kingsley Tavern.
+
+Returning, the hammockers among us set up under cover of darkness
+because Mimi had learned from the ranger that hammocks are forbidden
+at Connecticut state campgrounds--although, he assured her, a possible
+loosening of the rules "already being discussed in Hartford."
+
+In the morning it was a quick ride to Dover Plains for a diner
+breakfast and the train.
+
+[Day 1](https://ridewithgps.com/trips/342390150)<br>
+[Day 2](https://ridewithgps.com/trips/342394824)<br>
+
+## <span class="emoji">🚲</span> October 18-19: Livingston State Forest
+
+I picked this spot, where I'd camped years before in the pouring
+rain. It wasn't a great spot then but I thought maybe with good
+weather and daylight we'd find a nicer campsite--but we didn't. This
+forest is interesting and goes right up to the train tracks along the
+Hudson (if you don't mind a lot of scrambling and bushwhacking), but
+there is a lot of traffic noise and, it's a bit swampy, and (we
+learned by the glinting of many eyes lit up by our headlamps after
+dark) it is infested with spiders.
+
+I rode with Josh and Jason and Gerard. On the way back I more or less
+forced everyone to stop at the Sheep and Wool Festival in Rhinebeck.
+
+[Day 1](https://ridewithgps.com/trips/344358288)<br>
+[Day 2](https://ridewithgps.com/trips/344640039)<br>
+
+## <span class="emoji">🚗</span> October 25-26: Hannah's Birthday
+
+## <span class="emoji">🚲</span> December 6-7: New Forge State Forest
+
+[Day 1](https://ridewithgps.com/trips/355341912)<br>
+[Day 2](https://ridewithgps.com/trips/355369485)<br>
+
+## <span class="emoji">🚲</span> December 30-31: Wassaic Multiple Use Area
+
+I began composing this post sometime in December and in the process I
+realized how little camping I'd done this year. I determined to get at
+least one more trip in. I planned a route to the upper section of the
+Wassaic Multiple Use Area, which I thought looked promising (the lower
+section along route 22 was an overgrown disappointment in 2023 when I
+camped there at Halloween with Mimi and Herschel). I figured this
+would probably be another solo trip, but I put an open invitation to
+join and Jake decided to join. (He does multiple ultra-endurance
+bikepacking races every year and felt like an overnight would be more
+relaxing, even with lows around 20°F.)
+
+[Day 1](https://ridewithgps.com/trips/358879232)<br>
+[Day 2](https://ridewithgps.com/trips/358879230)<br>
+
+[^1] The shop's estimate for the work: one day.

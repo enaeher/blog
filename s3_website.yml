@@ -1,6 +1,6 @@
 s3_id: <%= ENV['AWS_ACCESS_KEY_ID'] %>
 s3_secret: <%= ENV['AWS_SECRET_ACCESS_KEY'] %>
-s3_bucket: <%= ENV['S3_BUCKET'] %>
+s3_bucket: eli.naeher.name
 
 # set session_token if using temporary credentials with a session token (eg: when assuming a role)
 # session_token: YOUR_AWS_S3_SESSION_TOKEN
@@ -34,7 +34,7 @@ s3_bucket: <%= ENV['S3_BUCKET'] %>
 
 # s3_reduced_redundancy: true
 
-cloudfront_distribution_id: <%= ENV['AWS_CLOUDFRONT_DISTRIBUTION'] %>
+cloudfront_distribution_id: ERRY6BPPWEW2J
 
 # cloudfront_distribution_config:
 #   default_cache_behavior:
