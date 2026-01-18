@@ -5,9 +5,10 @@ title: About.
 
 # About.
 
-{% rokka_photo f44b57 "At Illini State Park" %}
+{% rokka_photo 17ece9 "Photo by Josh Cantor" %}
 
-I'm a Lisp programmer living in New York. I wrote Common Lisp for a while; more recently I've been writing Clojure for [Shortcut](https://shortcut.com/). I like bikes and Emacs.
+I'm a Lisp programmer living in New York. I wrote Common Lisp for
+while; now I write Clojure for Apple. I like bikes and Emacs.
 
 Elsewhere:
 
