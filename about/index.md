@@ -7,8 +7,8 @@ title: About.
 
 {% rokka_photo 17ece9 "Photo by Josh Cantor" %}
 
-I'm a Lisp programmer living in New York. I wrote Common Lisp for
-while; now I write Clojure for Apple. I like bikes and Emacs.
+I'm a Lisp programmer living in <s>New York</s> San Francisco. I wrote
+Common Lisp for while; now I write Clojure. I like bikes and Emacs.
 
 Elsewhere:
 
